@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "b310404d92feb9b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f296dc5c8a94dff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9aacfdb02b6e96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story/Story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a07052d433f953f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alex Wright.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c3b3b8cea698c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Alex Wright.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b68fa85857653c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Seraphina Wilde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea68a743b441b681",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee2b9db908a6c157",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d31ba1dac6b0f5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352e0165fbb08ba4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f7d230b400619ab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9939ac8bd5a6e86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "259002e89b6b0d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7bb31923af6fe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5362ad109e34ac7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Story/Story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a5ef97bbf8b1aa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Story/Story.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42753e9484c95951",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "354c46cc159ee5dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Story/Story.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c9aacfdb02b6e96",
+  "lastOpenFiles": [
+    "Characters/Seraphina Wilde.md",
+    "Story/Story.md",
+    "Untitled.md",
+    "Story",
+    "Untitled.canvas",
+    "Characters/Alex Wright.md",
+    "Untitled 1.canvas",
+    "Scripts/Intro Dialogue.md",
+    "Characters",
+    "Scripts"
+  ]
+}
