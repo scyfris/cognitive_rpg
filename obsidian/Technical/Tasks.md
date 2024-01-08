@@ -5,9 +5,13 @@ This lists tasks we need to do.
  **Goal**: Get us to where we can focus on story and content.  Get all infrastructure stuff out of the way (with exception of minigames)
  
 **Tasks:**
-* Walk around
+* ~~Walk around~~
 	* 1/8/24 - Got this working.
-* Collision detection for obstacles.
+* ~~Collision detection for obstacles.~~
+	* 1/8/24 - Got this working.
+* Tilemap workflow
+	* Need to figure out how to make character appear "behind" layers.
+	* Explainer of Y-Sorting: https://www.youtube.com/watch?v=UdmD_2EcEgU
 * Transition between scenes.
 * Clickable regions for dialogue.
 * Inventory system.
