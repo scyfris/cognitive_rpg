@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Technical/Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Technical/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story/Story.md",
+                "file": "Technical/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story/Story.md"
+                "file": "Technical/Tasks.md"
               }
             }
           }
@@ -192,14 +192,16 @@
   },
   "active": "8c9aacfdb02b6e96",
   "lastOpenFiles": [
-    "Characters/Seraphina Wilde.md",
     "Story/Story.md",
+    "Technical/Tasks.md",
+    "Characters/Seraphina Wilde.md",
+    "Technical",
+    "Characters/Alex Wright.md",
+    "Scripts/Intro Dialogue.md",
     "Untitled.md",
     "Story",
     "Untitled.canvas",
-    "Characters/Alex Wright.md",
     "Untitled 1.canvas",
-    "Scripts/Intro Dialogue.md",
     "Characters",
     "Scripts"
   ]
