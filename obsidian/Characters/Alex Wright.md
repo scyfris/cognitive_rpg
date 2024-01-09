@@ -26,6 +26,11 @@ As a child, when he made a mistake, incurring his father's wrath, his father wou
 
 As he grew older, his father made him work and give him his earnings to pay for his alcohol addiction.
 
-He was bright enough to get accepted to a few prestigious universities, but his father intimidated him into going to a community college. Though legally an adult, Alex's fear of his father was deeply ingrained. So ingrained in fact that he was not able to escape his father until the day his father died from overdrinking while he was still in college. At his death, Alex was finally free to pursue his doctorate.
+He was bright enough to get accepted to a few prestigious universities, but his father intimidated him into going to a community college. Though legally an adult, Alex's fear of his father was deeply ingrained. So ingrained in fact that he was not able to escape his father until the day his father died from overdrinking while he was still in college. At his death, Alex was finally free to pursue his doctorate, although at a average public university instead of a prestigious one because of his unimpressive college..
 
 He has a decent relationship with his mother, whom he supports with part of his salary.
+
+### Brainstorm
+
+#### Future NPC like Alex's dad?
+Since Alex's dad died before he could actually "deal" with him, perhaps he meets someone in the past that resembles his dad - this gives him the opportunity to say things that he never said before, or standing up for himself, or something...
