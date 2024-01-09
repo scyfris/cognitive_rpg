@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a07052d433f953f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Alex Wright.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c3b3b8cea698c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Alex Wright.md",
+                "file": "Characters/Seraphina Wilde.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Tasks.md",
+                "file": "Characters/Seraphina Wilde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Tasks.md",
+                "file": "Characters/Seraphina Wilde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Tasks.md"
+                "file": "Characters/Seraphina Wilde.md"
               }
             }
           }
@@ -192,11 +168,12 @@
   },
   "active": "8c9aacfdb02b6e96",
   "lastOpenFiles": [
-    "Story/Story.md",
-    "Technical/Tasks.md",
-    "Characters/Seraphina Wilde.md",
-    "Technical",
+    "Characters/Seraphina Wilde.md~",
     "Characters/Alex Wright.md",
+    "Characters/Seraphina Wilde.md",
+    "Technical/Tasks.md",
+    "Story/Story.md",
+    "Technical",
     "Scripts/Intro Dialogue.md",
     "Untitled.md",
     "Story",
