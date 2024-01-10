@@ -1,6 +1,6 @@
 ### Overview
 ---
-Seraphina Wilde is a young woman in her mid 20's. She is a research scientist at Quantum Physics National Laboratory.
+Seraphina Wilde (also known as Sera) is a young woman in her mid 20's. She is a research scientist at Quantum Physics National Laboratory.
 
 ### Appearance
 ---
