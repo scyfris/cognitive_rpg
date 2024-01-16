@@ -17,7 +17,6 @@ Due to his personality and education, he tends to be dismissed and talked over b
 
 He dreams of one day being able to change the world through his research. In a way, subconsciously, he views this as a way to validate his worth, to prove his history wrong with his childhood being the way it was and his colleagues dismissing him.
 
-
 ### Background
 ---
 Alex grew up with his father and mother. His father was an abusive alcoholic, and his mother was a weary housewife who caved regularly to his father's demands. At a young age, Alex learned to fear his father, imitating his mother to avoid his wrath.
