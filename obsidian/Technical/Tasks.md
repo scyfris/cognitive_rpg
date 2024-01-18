@@ -68,11 +68,28 @@ LevelManager
 		* ActionResource
 			* This is an actual action function.  There are different kinds, browse the subclasses of ActionResource.
 * TilemapEntrance
-* Tile*
+* TileMap references:
+	* Reddit discussion with some useful info on how many tiles needed
+		* https://www.reddit.com/r/godot/comments/xzeovf/how_would_you_autotile_this_pulling_my_hair_out_d/
+	* Another reddit post, referring to the name of these type of tiles: Wang or Blob tile sets.
+		* https://www.reddit.com/r/godot/comments/u6f0v4/what_tiles_do_i_need_for_each_autotile_bitmask/
+	*  A git issue post that describes all the different combinations of tiles for autotiling!
+		* https://github.com/godotengine/godot-docs/issues/3316
+	* TilePipe -  A tool to help make tileset generation easier
+		* https://aleksandrbazhin.itch.io/tilepipe2
+	* 3x3minimal:
+		* ![[Pasted image 20240117113859.png]]
 
 
 ### Workflow
 
 
 
-## Milestone 1
+
+## Proto 1
+* Make a game based on the Pilot's first part (Alex in his house waking up).  These will exercise:
+	* Opening sequence/cinematic
+	* Minigame initiation / interface 
+	* Animation/sequences (dialogue, visual, etc)
+	* Tilemap for apartment - workflow to create tiles.
+	* Camera following player
