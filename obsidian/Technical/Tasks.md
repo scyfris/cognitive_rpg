@@ -2,17 +2,69 @@ This lists tasks we need to do.
 
 ## Bringup
 
- **Goal**: Get us to where we can focus on story and content.  Get all infrastructure stuff out of the way (with exception of minigames)
+ **Goal**: Get us to where we can focus on story and content.  Get all infrastructure stuff out of the way.  At the end of bringup, we should have all the tech and know-how to make the real game.
  
-**Tasks:**
-* ~~Transition between scenes.~~
-* ~~Animations (idle, walk, etc)~~
+**Features Still Pending**
 * Inventory system (for puzzles)
 	* Draggable inventory to objects on screen (to activate something).
-* Skill system integration with dialogue and such.
+* Skill system integration with dialogue and such
+* Figure out process for making isometric art
+	* Tools (tiled vs in-godot editor)
+	* Aseprite
+		* How to do isometric art efficiently.
+	* Parameters of iso
+		* width/height of cells, etc.
+		* Practice making it.
+	* Lospec
+		* For color palettes
+
+## Planning
+
+### Sprint 2/2/24 - Finish Bringup
+
+The goal of this sprint is to finish converting existing unit test to isometric and nail down our process prior to starting on the real pilot.  We should also have a more concrete understanding of how the pilot's first parts will be so that Billy can plan out a schedule/roadmap based on what is needed.
+
+#### Sprint Tasks
+
+* Finish Unit Test, Finish converting to Isometric
+	* Art converted to Iso
+		* Items:
+			* Walls
+			* Floor
+			* Fridge
+			* Whiteboard
+			* Clock
+			* Calendar
+			* Fish-shaped thing next to Calendar
+			* Couch
+			* Table
+			* Upa
+			* Door with Curtain
+			* Stove/sink area.
+		* Characters:
+			* Okabe
+				* Just laying down sprite needed.
+			* Kurisu
+				* Need walking forward at 45degree and walking backward at 45 degree.
+	* All functionality (walking , clicking for dialogue, etc) converted to Iso
+	* Workflow decided (Tiled vs in-Game godot)
+		* Look at our infrastructure again to make sure we can't use Tiled.
+		* Document the workflow.
+* Design week-by-week plan for completion of pilot
+	* This is a management task.  Deadline to have schedule is 2/2/24.
+* Begin documentation how to make levels and stuff in Godot for our game, and how the code works so both Billy and Mary can work on things.
+* Determine how to start communicating to customers (personal like Christina, but also public facing).  Basically work on strategy for update pipeline.
+
+
+## Finished
+
+* ~~Transition between scenes.~~
+* ~~Animations (idle, walk, etc)~~
+
+.
 * ~~Dialogue manager integration (Articy? Godot DM?)~~
 	* We are going to use Godot Dialogue Manager.
-* Minigame transition.
+* ~~Minigame transition.~~
 * Art:
 	* Lospec.com
 	* Figure out how to make tilesets (take some tutorials)
