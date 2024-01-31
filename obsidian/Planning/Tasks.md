@@ -29,32 +29,43 @@ The goal of this sprint is to finish converting existing unit test to isometric 
 * Finish Unit Test, Finish converting to Isometric
 	* Art converted to Iso
 		* Items:
-			* Walls
-			* Floor
-			* Fridge
-			* Whiteboard
-			* Clock
-			* Calendar
-			* Fish-shaped thing next to Calendar
-			* Couch
-			* Table
-			* Upa
-			* Door with Curtain
-			* Stove/sink area.
+			* Walls - B
+			* Floor - B
+			* Fridge - M
+			* Whiteboard - B
+			* ~~Clock - B~~
+			* Calendar - M
+			* Fish-shaped thing next to Calendar - B
+			* Couch - M
+			* Table - B
+			* ~~Upa - B~~
+			* Door with Curtain - B
+			* Stove/sink area. - M
 		* Characters:
 			* Okabe
 				* Just laying down sprite needed.
 			* Kurisu
 				* Need walking forward at 45degree and walking backward at 45 degree.
 	* All functionality (walking , clicking for dialogue, etc) converted to Iso
-	* Workflow decided (Tiled vs in-Game godot)
-		* Look at our infrastructure again to make sure we can't use Tiled.
-		* Document the workflow.
+	* ~~Workflow decided (Tiled vs in-Game godot)~~
+		* ~~Look at our infrastructure again to make sure we can't use Tiled.~~
+		* ~~Document the workflow.~~
 * Design week-by-week plan for completion of pilot
 	* This is a management task.  Deadline to have schedule is 2/2/24.
 * Begin documentation how to make levels and stuff in Godot for our game, and how the code works so both Billy and Mary can work on things.
 * Determine how to start communicating to customers (personal like Christina, but also public facing).  Basically work on strategy for update pipeline.
 
+* **ACTION ITEMS**
+	* We've decided to stick with Godot tile editor for now.
+		* Teach Mary how to use TileMapper in Godot.
+		* Document workflow
+	* Communication
+		* Only two we really want to update are Christina or Jeramiah.  
+			* Maybe email, maybe subscription on website for updates on games (newsletter).
+			* Maybe 2-3 updates for the pilot on stroke reddit page, after we have gotten further along.
+				* has therapeutic component behind it, on surface looks like normal game, etc . Use this to gauge interest, not necessarily feedback.
+					* Need a metric - follows, wishlist, etc.
+					* Initiial 
 
 ## Finished
 
