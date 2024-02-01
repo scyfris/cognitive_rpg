@@ -32,18 +32,18 @@ The goal of this sprint is to finish converting existing unit test to isometric 
 			* Walls - B
 			* Floor - B
 			* Fridge - M
-			* Whiteboard - B
+			* ~~Whiteboard - B~~
 			* ~~Clock - B~~
 			* Calendar - M
-			* Fish-shaped thing next to Calendar - B
+			* ~~Fish-shaped thing next to Calendar - B~~
 			* Couch - M
-			* Table - B
+			* ~~Table - B~~
 			* ~~Upa - B~~
 			* Door with Curtain - B
 			* Stove/sink area. - M
 		* Characters:
-			* Okabe
-				* Just laying down sprite needed.
+			* ~~Okabe~~
+				* ~~Just laying down sprite needed.~~
 			* Kurisu
 				* Need walking forward at 45degree and walking backward at 45 degree.
 	* All functionality (walking , clicking for dialogue, etc) converted to Iso
