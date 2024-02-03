@@ -38,6 +38,13 @@ The goal of this sprint is to finish converting existing unit test to isometric 
 			* ~~Fish-shaped thing next to Calendar - B~~
 			* Couch - M
 			* ~~Table - B~~
+			* ~~Fridge - M~~
+			* Whiteboard - B
+			* ~~Clock - B~~
+			* ~~Calendar - M~~
+			* Fish-shaped thing next to Calendar - B
+			* ~~Couch - M~~
+			* Table - B
 			* ~~Upa - B~~
 			* Door with Curtain - B
 			* Stove/sink area. - M
