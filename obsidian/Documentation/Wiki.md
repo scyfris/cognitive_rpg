@@ -54,7 +54,7 @@ By default the filter is "Inherit".  For pixel art, I like to use "Nearest" othe
 ![[tileset setup 8.gif]]
 #### Set Y-Sort on TileMap
 
-You need to set the Y Sort Enabled on the TileMap itself, because its layers will be Y Sorted.  If you don't, you'll get a little red explanation mark.
+You need to set the Y Sort Enabled on the TileMap itself, because its layers will be Y Sorted.  If you don't, you'll get a little red explanation mark.  It's under CanvasItem->Order->Y Sort Enabled
 
 ![[tileset setup 10.gif]]
 
@@ -85,11 +85,13 @@ Create the TileSet , and set the TileMap's Tile Set property.  See next section 
 
 #### TileSet settings
 
-These are the settings for an Isometric tileset using the AGG Plugin:
+These are the settings for an Isometric tileset using the AGG Plugin.  Note that we change almost all of the defaults.  In particular, Tile Shape should be Isometric, Tile layout is Diamond Down, Tile Offset Axis is Vertical Offset, and Tile Size is 32 x 16.
 
-Later we will add a custom data layer to this, but for now that's it for the settings.
+
+
 ![[Pasted image 20240201151612.png]]
 
+Later we will add a custom data layer to this, but for now that's it for the settings.
 #### Create tileset tiles
 
 For editing TileSets, it's on the bottom (make sure you are highlighting either the TileSet .tres file in the Folder view, or highlighting the TileMap in the scene hierarchy)
@@ -149,12 +151,62 @@ You should now be able to paint your tiles.  Note that you need to make sure to 
 
 ### Add required Components
 
-TODO
+For every level, there are multiple required components.
+
+#### Globals (autoloads)
+These components should be added to your Autoload in your project, and are located under res://AGGStoryPlugin/Scenes/Systems/Required/Globals
+
+* GameStateManager.tscn
+* LevelManager
+	* Provides support for loading different levels/scenes.
+* MinigameManager
+	* Provides hooks to and from minigames.
+* SceneActionManager
+	* Responsible for cutscenes initiated from Dialosgue.
+* GlobalEventBus
+	* Responsible for passing events to components!
+
+You must also have
+* Dialogue Manager (external plugin)
+
+#### Per-scene reqiored components
+* Camera2D.tscn
+	* Provides a camera viewport for the scene.
+* Fader.tscn
+	* A fader class for the CutsceneAction fader class.
+* TileMapComponents.tscn
+	* Contains Input functionality for the tilemap, including debug drawing for path planning.
+* TileMapEntrance
+	* Every scene needs 1! 
+* TileMapPlayerController
+	* The actual character.
+
 
 ### Add Playercontroller
 
 ### Add TileObjects
 
+Tileobjects are pre-built scenes that represent a clickable/interactable area in the map, or an area that takes up space in the map (i.e. the player can't walk through it).  These are not static.
+
+TileObjects are located under res://AGGStoryPlugin/Scenes/Systems/TileObject/TileObject.tscn
+
+TileObjects will also need TileFootprints if they are blocking the player's walking space (these are located under res://AGGStoryPlugin/Scenes/Components/TileFootprint.tscn ).  Just drag those on, you should see the tile highlighted that it takes up.
+
+##### TileObject parameters
+
+* `Blocks Path` - If true, the player can not walk through the tile taken up by this TileObject.  Requires a TileFootprint.
+* `Clickable Collision Object (optional)` - A CollisionShape2D object representing a clickable region.
+* `Enable Click Actionable (optional)` - The click will trigger an action defined in the Click Actionable Resource field.
+* `Click ActionableResource (optional)` - The action to execute if clicked on and Enable Click Actionable is true and the object has a Clickable CollisionObject.
+* `Click Actionable Optional Target Point` - The point the player should walk to if "require walk to perform" is on.  By default, if this is empty, the player will walk to the Position of the actionable.
+* `Click Actionable Require Walk To Perform` - True if the player needs to walk to TileObject first, or if it's instance after clicking.
+
+##### TileObject Sprites
+
+TileObjects don't need sprites, they could just be clickable regions.  But it's good to have one if this is a real object...
+
+Just add a Sprite2D or other AnimatedSprite to it.
+![[Pasted image 20240203154631.png]]
 ### Add Dialogues
 
 ### Add Cutscenes
@@ -164,4 +216,47 @@ TODO
 #### MISC
 
 * Walkable levels of the TileMap are only from the level specified in `TileMapScene::Walkable Layer`.
-* 
+*#### Autoloads/Globals
+
+LevelManager
+* Contains functionality for loading different levels/tilemaps and initializing those maps.
+	* LoadLevel() - Primary function to load a new tilemap scene.  Specify the level enum and an optional entrance name (must correspond to the name of a TilemapEntrance component somewhere in that tilemap.)
+
+#### Tilemap Components
+
+* Actionable
+	* This class can be attached to an object to perform some action.  Typically, the object this is attached to will also have some class like "Clickable" whose signal would be hooked up to Actionable::Action().  This class won't do anything without a signal or other code executing Action().  The action that gets executed must also be set to the _action_ member via the Godot inspector.  The action contains the actual action function.
+		* ActionResource
+			* This is an actual action function.  There are different kinds, browse the subclasses of ActionResource.
+* TilemapEntrance
+* TileMap references:
+	* Reddit discussion with some useful info on how many tiles needed
+		* https://www.reddit.com/r/godot/comments/xzeovf/how_would_you_autotile_this_pulling_my_hair_out_d/
+	* Another reddit post, referring to the name of these type of tiles: Wang or Blob tile sets.
+		* https://www.reddit.com/r/godot/comments/u6f0v4/what_tiles_do_i_need_for_each_autotile_bitmask/
+	*  A git issue post that describes all the different combinations of tiles for autotiling!
+		* https://github.com/godotengine/godot-docs/issues/3316
+	* TilePipe -  A tool to help make tileset generation easier
+		* https://aleksandrbazhin.itch.io/tilepipe2
+	* 3x3minimal:
+		* ![[Pasted image 20240117113859.png]]
+
+
+#### SceneActionManager and Cutscenes
+
+#### Actor Animation names
+
+These are requirements for actors that move left/right/down/up and can remain idle.
+walk_down
+walk_up
+walk_side
+walk_side (reversed)
+default (idle)
+
+Optional:
+surprised - trigged by cutscenes
+
+### Workflow
+
+
+Minigame
