@@ -33,3 +33,6 @@ He has a decent relationship with his mother, whom he supports with part of his 
 
 #### Future NPC like Alex's dad?
 Since Alex's dad died before he could actually "deal" with him, perhaps he meets someone in the past that resembles his dad - this gives him the opportunity to say things that he never said before, or standing up for himself, or something...
+
+
+
