@@ -209,9 +209,56 @@ Just add a Sprite2D or other AnimatedSprite to it.
 ![[Pasted image 20240203154631.png]]
 ### Add Dialogues
 
+#### Add new dialogue balloons
+
+You can create your own dialogue balloons with Dialogue Manager pretty easily.  We have a script `AGGDialogueBalloonPortrait` that can be used to create portrait-style balloons.
+
+![[test_portrait.gif]]
+
+After adding it, open it up.  Remove and delete the DialogueBalloon.cs script that came with it, and add on the `AGGDialogueBalloonPortrait` script.
+
+![[Pasted image 20240207161204.png]]
+
+Set the "Portrait Folder" property to point to a folder containing your portrait images.  These need to be PNGs right now, and the base name of the file should be the same as the character's name in the dialogue (ToLower() is used so it should be lower-case).
+
+For example, for a character named **Kurisu**, it would be:
+![[Pasted image 20240207161400.png]]
+
+![[Pasted image 20240207161425.png]]
+
+You must also make sure to put a node named "Portrait" somewhere onto the balloon, otherwise you will get a runtime error.
+![[Pasted image 20240207162657.png]]
+#### Tags
+
+`[#thought]` A thought dialogue. (text will be enclose with parenthesis)
+`[#noportrait]` - Disable portrait on dialogue.
+ 
+By default, dialogue will display with "" around it.  Thought dialouges display with ().  Dialogues with no character (narration) display as 
+
 ### Add Cutscenes
 
+Cutscenes are events you can trigger from your Dialogue scripts, by making calls into CutsceneActionManager.TriggerCutsceneAction(`<string name of cutscene node or cutscene group node in the scene>`)
 
+All of the premade cutscene nodes are under AGGStoryPlugin/Scenes/Systems/Cutscenes.  All the options are configurable through the inspector.
+
+`Is Blocking` On all the cutscene types will force the Dialogue Manager to wait before continuing.
+#### Cutscene types
+
+##### CutsceneActionStopWalking
+
+Stops the player from walking.
+
+##### CutsceneActionWait
+
+Waits for N amount of seconds.
+
+##### CutsceneActionWalk
+
+Triggers an actor to walk to a target.
+
+##### CutsceneActionFader
+
+Fades in or out using the scene's "Fader" component.
 
 #### MISC
 
