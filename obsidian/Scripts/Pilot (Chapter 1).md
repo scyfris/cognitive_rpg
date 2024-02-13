@@ -58,7 +58,7 @@ Dr. Vytautas Kazlauskas
 
 **Alex:** Delete, and that's all. Time to get to the lab.
 
-### Argument between Seraphina and another researcher
+### Scene 2: Argument between Seraphina and another researcher
 ---
 **Researcher:** ...there *might* be a hidden variable theory that explains quantum entanglement.
 
@@ -116,21 +116,33 @@ Dr. Vytautas Kazlauskas
 
 **Alex:** *This is what I'm talking about. I suck at talking.*
 
-### At Home: Alex Reflects on Work
+### Scene 3: At Home: Alex Reflects on Work
 ---
-He thinks about how he wishes his work actually makes a greater difference in the world - in the lives of the people he sees every day. Sometimes he feels his work just goes into a black hole.
-
 *Alex collapses into his desk chair. Minigame starts, and he talks to himself as the minigame continues.*
 
 **Alex:** What am I doing with my life?
 
 **Alex:** I never thought research would make me feel so dead inside.
 
-**Alex:** I just want to discover things and use them to make a difference in the world. Not in some sort of esoteric way, but in a tangible way.
+**Alex:** I just want to discover things, freely uncovering the mysteries of the universe.
 
-**Alex:** Yet here I am, the world no different with or without me.
+**Alex:** That rush of excitement when pursuing the truth down the path my curiosity takes me... when's the last time I felt that?
 
-**Alex:** Maybe I should have become an engineer instead.
+**Alex:** It feels like everyone I talk to... they lost all sense of curiosity and love of discovery.
+
+**Alex:** Mark today was just one example. He didn't care about the truth - he just wanted to push his theory for some reason. Until Sera pointed out that his theory depended on hidden variables.
+
+**Alex:** He knew she was right, but he couldn't bring himself to reject his theory. Why?
+
+**Alex:** Who knows? Maybe he hoped it would make a name for himself, so he couldn't let go of the idea. Or maybe he just wanted to prove himself right. Whatever the reason, he had lost his curiosity for the truth.
+
+**Alex:** ...
+
+**Alex:** Maybe I was too idealistic.
+
+**Alex:** ...
+
+**Alex:** Man, this is depressing...
 
 *Phone rings.*
 
@@ -161,6 +173,64 @@ He thinks about how he wishes his work actually makes a greater difference in th
 **Alex:** Night, mom.
 
 **Alex:** *What kind of son hasn't seen his mother in almost a decade?*
+
+### Scene 3: Dillon Comes Over
+---
+*There was a couple knocks on Alex's door before Dillon enters with a bunch of equipment in his arms.*
+
+**Dillon:** What's up, man? How's it going?
+
+**Alex:** What's that?
+
+**Alex:** *This is Dillon. We've been friends since high school. More like brothers, actually. We went to the same... well... he's a mechanic, and I'm a researcher.*
+
+**Alex:** *We're so close, he followed me all the way here to work.*
+
+**Alex:** *He has his own place, but he likes to come over to mine.*
+
+**Dillon:** No hello? You wound me, Al.
+
+**Alex:** You've turned my whole kitchen area into a workshop! No more stuff!
+
+**Alex:** *Dillon likes working on his own projects after work. But because he likes to come over to my place, he's decided that part of my space will be his work space. I always make a stink about it, but I don't really care.*
+
+**Alex:** *I don't use the kitchen anyways.*
+
+**Dillon:** Dude, you don't even use the kitchen.
+
+**Alex:** So what are you making this time?
+
+**Alex:** *To be honest, I actually enjoy him working on his projects in my apartment. Makes the place feel less empty.*
+
+**Alex:** *Sometimes, he'd teach me some stuff, and actually, making stuff - it isn't that bad. It makes me feel like I'm actually doing something if that makes sense. Instead of my work going into some black hole somewhere.*
+
+**Alex:** *Maybe I should've become a mechanic instead of a researcher.*
+
+**Dillon:** Eh. I don't know. Maybe an electric skateboard or something.
+
+**Alex:** Cool.
+
+**Alex:** *And with that, we both settled into our routines. I figured I could look over Dr. Chen's data before the meeting tomorrow.*
+
+*Math Minigame starts.*
+
+**Alex:** What the - ?
+
+**Alex:** *What is this? Dr. Chen's email specifically stated that the data shows fluctuations that appear unrelated to external factors. But the data here shows that the anomalies are occurring under specific experimental conditions involving extremely high-energy states.*
+
+**Alex:** *Why did he reach such an obviously false conclusion?*
+
+**Dillon:** What's wrong?
+
+**Alex:** Oh... nothing. Just... work stuff.
+
+**Dillon:** You know it's past work hours, right?
+
+**Alex:** This is for the meeting tomorrow morning.
+
+**Dillon:** Why bother? They don't ever listen to you anyway. 
+
+
 
 ### Meeting with Alex's Team
 ---
