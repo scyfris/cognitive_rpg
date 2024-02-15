@@ -18,13 +18,20 @@ Minigames are designed to be the main exercises the player does. They are divide
 Memory
 * Sequenced/unquenched recall
 	* Pill bottle game is example
-* Gap fill game for remembering what is happening in the story.
+* Dialogue options (not a minigame)
+	* Remembering to give the right answer , get better dialogue options.
+		* There is a tutorial in the beginning that explains this.
+			* Immediate gratification - a pleasant reaction from NPC. Can pair with a sound as well.
+		* More flexible than just memory - can do something like teach them social appropriateness. Or if you choose certain dialogue option you have to get certain score in game. etc.
 
 Linguistics
-* Phone message game is example
+* Game where you read and have to answer questions based on content. (email, or phone messages, texts, etc)
+* Gap fill game for remembering what is happening in the story.
+	* Maybe related 
 
 Spatial
-* Bubble game is example
+* Tapping on objects either stationary or moving (minigame)
+* Puzzle - sometimes they have to collect items, and then put things together.
 
 When player clicks on a minigame in-game, it will show a box preview showing them what stats they will earn by completing the minigame.  
 **?** How should this UI look in-game without them clicking?  Should we have a little icon over the thingy with symbol indicating what stats they will get, or that it is in a minigame.
