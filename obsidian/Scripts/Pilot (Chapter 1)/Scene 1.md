@@ -119,3 +119,42 @@ Dr. Vytautas Kazlauskas
 
 ##### Object References
 ---
+***Fridge.***
+**Alex:** *It's mostly empty except for soda cans and eggs. Sometimes Dillon's takeout if he's tired of my ramen cups.*
+
+***Stove.***
+**Alex:** *I don't mess with that. That's what ramen cups and pizza delivery are for.*
+
+***Sink Area.***
+**Alex:** *The plate's decor. Neither me nor Dillon uses it because then we'd have to wash it.*
+
+***Kitchen Window with Plant.***
+**Alex:** *I read that plants make one's home homier.*
+
+***Cupboard.***
+**Alex:** *Filled with ramen cups and disposable chopsticks. A feast fit for a king.*
+
+***Futon.***
+**Alex:** *I sleep fine on a futon.*
+
+***Couch.***
+**Alex:** *I hope I never have to move that thing again. I'm not that fit to begin with.*
+
+***Coffee Maker.***
+**Alex:** *It's in the perfect position between where I sleep and where I work. I roll out of bed, get coffee, and then roll into work.*
+**Alex:** *It also makes hot water for my cup noodles, so I don't need to bother with a microwave or kettle.*
+
+***Desk.***
+**Alex:** *My workspace. To be honest, I prefer working at home rather than in the lab. Fewer interactions with colleagues that way...*
+
+***Framed Paper Above Desk.***
+**Alex:** *The paper on the discovery of the Higgs Boson.*
+
+***Whiteboard.***
+**Alex:** *A standard whiteboard. I don't actually use it for work that much. Mostly it's for Dillon whenever he feels like explaining some engineering concept to me. A physicist I may be, but an engineer I am most definitely not.*
+**Alex:** *...*
+**Alex:** *Sometimes I wonder though if maybe I should have gone into engineering.*
+
+***Clock.***
+**Alex:** *I don't know what to say. I mean... it's a clock.*
+
