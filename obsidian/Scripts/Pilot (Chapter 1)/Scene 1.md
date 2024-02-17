@@ -29,7 +29,7 @@ Characters: Alex
 ***(Lack of Time)***
 ***First click***
 	**Alex:** *85% of adults in Freedonia need coffee to function on a daily basis.*
-	**Alex:** *I'm not of the other 15%.*
+	**Alex:** *I'm not one of the other 15%.*
 ***Subsequent clicks***
 	**Alex:** *Seriously, I need coffee.*
 
