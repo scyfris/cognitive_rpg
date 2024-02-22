@@ -82,6 +82,8 @@ On Monday, Sera and Alex finally hit a dead end with their experiments. Alex ask
 After pulling an all-nighter setting up the previous experiment, they finally put it on autopilot. Too early to go straight to work, but too late to go home before work, they settled for drinking coffee in the break room. Alex asks if she could help him by reviewing his paper before submission. She's surprised he asked her of all people but agrees.
 	Purpose:
 		Just bonding.
+	 Location:
+		 Break room
 
 #### Scene 15
 After work, she approaches him to give him her feedback. He takes her criticism gracefully, which she appreciates. To soften the criticism, she offers to help him improve the paper over dinner before the house party.
@@ -92,6 +94,7 @@ After work, she approaches him to give him her feedback. He takes her criticism 
 Alex sees Sera's apartment for the first time. During the party, he meets her friends and is surprised at her type of friends. He is also surprised at how much she drinks, considering he doesn't drink at all.
 	Purpose:
 		Foreshadows Sera's mental state and background.
+	==Billy==  - I think this should be split into two scenes?  1 before party where they have their dinner together, and 1 during party.
 
 #### Scene 17
 The experiments done, Sera and Alex validate Alex's theory. The results are now reproducible. Excited, Sera comes over to Alex's to analyze the data together.

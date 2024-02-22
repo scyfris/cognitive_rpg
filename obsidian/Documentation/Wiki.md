@@ -307,3 +307,86 @@ surprised - trigged by cutscenes
 
 
 Minigame
+
+# Overview of Passing Time
+
+This section details specifics of working with the game Passing Time.
+
+### Create Minigame
+
+
+We have multiple Minigame prototypes available, you should not need to roll your own. ( we don't want to either, as we will have maybe 100's of minigames , imagine debugging all of them independently).  Instead we have a few minigame prototypes, and the data is the only thing that changes between minigames.
+
+#### Base Setup
+The basic steps to define a new minigame are:
+
+1) Create a new Minigame scene under the `Games/PassingTime/Maps/<Chapter>/<Location>/Minigames`  folder.  Make sure it is of type `Node` or `Node2D`.
+	1) Set the root node as a "Minigame" script derived from one of the Minigame prototype scripts (see Games/PassingTime/Assets/Minigames/Prototypes/MemoryRecall/MemoryRecallMinigame.cs as one such example)
+2) Create a MinigameDef under your `Maps/<Chapter>/<Location>/Minigames/<minigame subfolder>`
+	1) Give it a name
+	2) Give it a path to a scene with a Node (Minigame script) as root , created from step 1-2.
+3) If using this in an Actionable, create a ActionResourceStartMinigame - Give it a reference to your minigame def from step 3, along with the dialogue entry points to the Pass Dialogue and Fail dialogue.
+4) Assign your ActionResourceStartMinigame to some Actionable, or trigger from cutscene.
+5) Make sure to drag in FinishButtonControlExample.tscn into the scene for the finish button (or provide your own by overriding in the root MemoryRecallMinigame.cs script.
+
+That's it for the basic setup - you defined a minigame!
+See below for filling out the minigame scene (depending on the minigame prototype, the instructions are different.)
+
+#### Minigame Prototype speific information
+
+All the prototypes can be found in Games/PassingTime/Assets/Minigames/Prototypes.  This section details steps to build a new minigame using these.
+
+##### Prototypes/MemoryRecall
+
+Set your root node script to be MemoryRecallMinigame.cs.
+
+This minigame type has the following 3 phases:
+1) Memorization phase - Give the player X seconds to memorize images on the screen.
+2) Guess phase - Allow the player to guess what they saw from memory.
+3) Scoring phase - Show the player feedback on what they got wrong or right.
+
+All of these phases make use of "Answers" defined in Prototypes/MemoryRecall/MemoryRecallAnswerProto.tscn.
+
+###### Set up the Answer Pool
+
+**First** - Drag as many Prototypes/MemoryRecall/MemoryRecallAnswerProto.tscn into the scene as you want.  
+Make sure to **drag them outside of the viewing area** because these won't actually be the instances the player sees.
+Feel free to change the sprite associated with this if you would like.  Note - there is a clickable region , you must redefine that if your sprite is larger or smaller than the example sprite (32x32 pixels).
+
+**Second** - Set the root "MemoryRecallMinigame.cs" property `MemoryRecallMinigame` in the inspector to fill in the "Answer Pool" with all of your objects.
+
+###### Set up the locations for the Memorization Phase
+
+During the memorization phase, a select number of items from the answer pool will be displayed to the player to memorize.  You must tell the minigame where the locations should be.
+
+**First** - Create a few Node2D's in the scene (same amount as answers).
+
+**Second **** - Set up the root "MemoryRecallMinigame.cs" `MemorizationPositionsToInitializeAt` to point to all your positions.
+
+**Third** - Set up the `Num Answers` and `Num Seconds To Guess` parameters.  `Num Answers` is how many need to be memorized.  `Num Seconds to Guess` is how long the layer gets to guess.
+
+###### Set up the locations for the Guess phase.
+
+**First** - Similar to the Memorizsation phase, create a bunch of Node2Ds for guess phase.  This needs to be GREATER THAN OR EQUAL TO the amount of answers in the answer pool (to allow for the hardest difficulty).
+
+**Second** - Also set the MemoryRecallMinigame.cs parameter.
+
+###### Set the correct and incorrect UI marks
+
+This can be done by setting the root's `Ui correct answer texture` and `Ui Incorrect Answer Texture` to the `PassingTime/Assets/Minigames/UI/CheckMark.png` and ``PassingTime/Assets/Minigames/UI/XMark.png`` respectively.  Or you can set your own.
+
+
+
+
+###### Optionally override the finish button
+
+On the root, make sure you have dragged in `PassingTime/Assets/Minigames/Prototypes/MemoryRecall/FinishButtonExample.tscn".`  You can create a `Control` node if you want to attach it to.
+
+You MUST name the finish button "FinishButton" or as unique name "%FinishButton".
+
+**IMPORTANT NOTE**
+You **must** select `Access as Unique Name ` from menu and name it " `FinishButton` " Otherwise there will be error that %FinishButton couldn't be found.
+
+If you want to override it, then set `Finish Button Name Override` to `%FinishButton`.
+
+

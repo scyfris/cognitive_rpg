@@ -4,49 +4,58 @@ Passing time is a story-based game that is directed towards people with cognitiv
 
 Broken into chapters.
 
-## Stats
-
-Stats can be improved by completing minigame tasks.  Dialogue is influenced by the stats of a player.  Additionally, action in-game may require certain stats in order to perform.
-
-The stats we are using:
-
-* Strength - How strong the player is.
-	* This stat might influence certain dialogue options , or actions the player can perform in the world.
-* Perception - How perceptive the player is
-	* Could allow player to deduce more information about someone.  Perhaps they could even recognize when someone is lying during dialogue.  Perhaps this also provides more context clues when figuring out a certain puzzle (ex: a broken pipe - with high enough perception, when they click on it the narrative might say "This pipe could possibly be fixed with a wrench", whereas if they didn't have a high enough perception it would say "This is a broken pipe.".  And the UI would indicate over it that they could get a different description with a certain perception, that way if character really can't figure out what to do, they know if they increase their perception high enough the game will kind of give them a hint via the narrative.)
-* ???
-* ???
-
-Stats are persistent across chapters.  We must have a way to ensure stats are at a certain level before a chapter or group of chapters begins, in order to keep a baseline.
 
 ## Story Variables
 
-Variables can also be set on a per-chapter basis.  These variables might influence parts of the story in that chapter.  For instance, a "do_coffee" variable could be set if they complete the coffee minigame.  This ariable can be checked later in the chapter to modify dialogue responses, or other things.
+Variables can also be set on a per-chapter basis.  These variables might influence parts of the story in that chapter.  For instance, a "do_coffee" variable could be set if they complete the coffee minigame.  This variable can be checked later in the chapter to modify dialogue responses, or other things.
 
-Variables can **not** persist across chapters.  Only stats persist across chapters.
+Variables can **not** persist across chapters.
 
 ## Minigames
 
-Minigames are designed to be the main exercises the player does. They are divided into the following categories:
+Minigames are designed to be the main exercises the player does. They are divided into the following categories, sometimes called categories:
 
 Memory
-* Sequenced/unsequenced recall
-* Pill bottle game is example
+* Sequenced/unquenched recall
+	* Pill bottle game is example
+* Dialogue options (not a minigame)
+	* Remembering to give the right answer , get better dialogue options.
+		* There is a tutorial in the beginning that explains this.
+			* Immediate gratification - a pleasant reaction from NPC. Can pair with a sound as well.
+		* More flexible than just memory - can do something like teach them social appropriateness. Or if you choose certain dialogue option you have to get certain score in game. etc.
 
 Linguistics
-* Phone message game is example
+* Game where you read and have to answer questions based on content. (email, or phone messages, texts, etc).
+	* Mark in Calendar
+	* Answer Questions
+	* Options:
+		* No text (only voice)
+		* Text disappears after X seconds 
+		* Number of questions
+			* Date
+			* Appointment type,
+			* etc...
+* Gap fill game for remembering what is happening in the story.
+	* Maybe related 
 
 Spatial
-* Bubble game is example
+* Tapping on objects either stationary or moving (minigame)
+* Puzzle - sometimes they have to collect items, and then put things together.
 
 When player clicks on a minigame in-game, it will show a box preview showing them what stats they will earn by completing the minigame.  
 **?** How should this UI look in-game without them clicking?  Should we have a little icon over the thingy with symbol indicating what stats they will get, or that it is in a minigame.
 
-#### Memory
+#### Memory Prototype
+
+* sequence/unsequenced recall
 
 #### Linguistics
 
+* Phone message, email game, etc.  Remembering what is said in *
+
 #### Spatial
+* something like bubble pop
+* puzzles where you fit in the pieces - this is based on obtaining the proper items through the game/ dialogue.
 
 ## In-game
 
