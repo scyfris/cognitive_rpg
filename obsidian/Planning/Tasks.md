@@ -2,6 +2,12 @@ This lists tasks we need to do.
 
 https://trello.com/b/zADLZojt/rehabrpg
 
+## Sprint meeting 2/20/24
+
+* Charater sprites - 48hx32w
+* minigames:
+	* 
+
 ## Sprint Meeting 2/9/24
 
 

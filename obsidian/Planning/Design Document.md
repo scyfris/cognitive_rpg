@@ -25,7 +25,16 @@ Memory
 		* More flexible than just memory - can do something like teach them social appropriateness. Or if you choose certain dialogue option you have to get certain score in game. etc.
 
 Linguistics
-* Game where you read and have to answer questions based on content. (email, or phone messages, texts, etc)
+* Game where you read and have to answer questions based on content. (email, or phone messages, texts, etc).
+	* Mark in Calendar
+	* Answer Questions
+	* Options:
+		* No text (only voice)
+		* Text disappears after X seconds 
+		* Number of questions
+			* Date
+			* Appointment type,
+			* etc...
 * Gap fill game for remembering what is happening in the story.
 	* Maybe related 
 

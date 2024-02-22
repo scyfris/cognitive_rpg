@@ -321,13 +321,13 @@ We have multiple Minigame prototypes available, you should not need to roll your
 The basic steps to define a new minigame are:
 
 1) Create a new Minigame scene under the `Games/PassingTime/Maps/<Chapter>/<Location>/Minigames`  folder.  Make sure it is of type `Node` or `Node2D`.
-2) Set the root node as a "Minigame" script derived from one of the Minigame prototype scripts (see Games/PassingTime/Assets/Minigames/Prototypes/MemoryRecall/MemoryRecallMinigame.cs as one such example)
-3) Create a MinigameDef under your `Maps/<Chapter>/<Location>/Minigames/<minigame subfolder>`
+	1) Set the root node as a "Minigame" script derived from one of the Minigame prototype scripts (see Games/PassingTime/Assets/Minigames/Prototypes/MemoryRecall/MemoryRecallMinigame.cs as one such example)
+2) Create a MinigameDef under your `Maps/<Chapter>/<Location>/Minigames/<minigame subfolder>`
 	1) Give it a name
 	2) Give it a path to a scene with a Node (Minigame script) as root , created from step 1-2.
-4) If using this in an Actionable, create a ActionResourceStartMinigame - Give it a reference to your minigame def from step 3, along with the dialogue entry points to the Pass Dialogue and Fail dialogue.
-5) Assign your ActionResourceStartMinigame to some Actionable, or trigger from cutscene.
-6) Make sure to drag in FinishButtonControlExample.tscn into the scene for the finish button (or provide your own by overriding in the root MemoryRecallMinigame.cs script.
+3) If using this in an Actionable, create a ActionResourceStartMinigame - Give it a reference to your minigame def from step 3, along with the dialogue entry points to the Pass Dialogue and Fail dialogue.
+4) Assign your ActionResourceStartMinigame to some Actionable, or trigger from cutscene.
+5) Make sure to drag in FinishButtonControlExample.tscn into the scene for the finish button (or provide your own by overriding in the root MemoryRecallMinigame.cs script.
 
 That's it for the basic setup - you defined a minigame!
 See below for filling out the minigame scene (depending on the minigame prototype, the instructions are different.)
