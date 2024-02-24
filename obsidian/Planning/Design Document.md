@@ -1,5 +1,16 @@
 Passing time is a story-based game that is directed towards people with cognitive disabilities from stroke or TBI, but can be enjoyed by anyone.  This document will serve as the design document.
 
+## IDEAS
+
+If player is taking too long on minigame, have a "hint" button appear that helps them.  OR have the correct answer highlighted to kind of nudge them in the right direction.
+
+for finding clothes minigame, show picture of Alex with clothes as memorization phase.
+
+For email game
+- first level - the text is still there
+- for next level - text gets greyed out
+- You could have image update as they choose each correct answer (calender , date, items in the calendar)
+
 ## Structure of story
 
 Broken into chapters.
