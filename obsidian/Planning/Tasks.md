@@ -2,6 +2,77 @@ This lists tasks we need to do.
 
 https://trello.com/b/zADLZojt/rehabrpg
 
+## Sprint Meeting 2/29/24
+
+* Finished Alex with Lab coat for for Scene 1
+* Need: 
+	* Put alex in game
+		* SS
+			* **Billy**
+	* Update script dialogue in game.
+		* SS
+			* **Billy**
+	* Arrow indicator on what to press (tutorial)
+	* Alex with home clothes.
+		* **Billy**
+			* P1
+	* Descriptions written for each object.
+		* **Mary**
+			* P0
+	* Dialogue on minigames
+		* **Mary**
+			* SS
+	* UI Design
+		* **Mary**
+			* SS
+	* Clean up minigame sprites
+		* **Billy
+			* p0
+	* Minigame Background
+		* **Mary**
+			* SS
+	* Scaling difficulty (once they lose a minigame)
+		* **Billy**
+			* p1 (for now)
+				* While testing on Itch.io, we can start doing this.
+	* Summary info/effects from end of Minigame
+		* **Billy**
+			* p0
+	* Sequenced Recall Minigame
+		* **Billy**
+			* SS
+	* Graphics for Sequenced Recall Minigame
+		* **Billy**
+			* SS
+	* Email minigame
+		* Fix code 
+			* **Billy**
+				* SS
+	* End scene indicator (to let them know that's it for now)
+		* P0
+	* Main Menu
+		* SS
+	* Test on tablet / itch.io
+		* SS
+	* Buy mac laptop
+* Art:
+	* Flooring (kitchen and living room)
+		* **Mary will design
+			* P0
+	* Walls
+		* **Mary will design**
+			* P0
+	* Pallet
+		* **Mary will test pallets**
+			* P0
+	* Animation frames for things.
+		* P2
+	* Atmospheric lighting / lamps
+		* P2
+	* Shadows
+		* P2
+	
+
 ## Sprint meeting 2/20/24
 
 * Charater sprites - 48hx32w
