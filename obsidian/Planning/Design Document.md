@@ -11,6 +11,11 @@ For email game
 - for next level - text gets greyed out
 - You could have image update as they choose each correct answer (calender , date, items in the calendar)
 
+FindClothes NEEDS:
+
+Panel for memory and guess (that has title Memorize and "Guess")
+Clock
+
 ## Structure of story
 
 Broken into chapters.
