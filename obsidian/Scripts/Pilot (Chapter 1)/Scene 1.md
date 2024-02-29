@@ -147,6 +147,9 @@ Dr. Vytautas Kazlauskas
 ***Desk.***
 **Alex:** *My workspace. To be honest, I prefer working at home rather than in the lab. Fewer interactions with colleagues that way...*
 
+***Chair.***
+**Alex:** *Hanging up my clothes every time I change is a pretty tall order.*
+
 ***Framed Paper Above Desk.***
 **Alex:** *The paper on the discovery of the Higgs Boson.*
 
@@ -157,4 +160,22 @@ Dr. Vytautas Kazlauskas
 
 ***Clock.***
 **Alex:** *I don't know what to say. I mean... it's a clock.*
+
+***Wastebasket.***
+**Alex:** *I would take it out much more often if the dumpster isn't so far away. Besides, it's just paper trash. Nothing gross.*
+
+***Stacks of Books.***
+**Alex:** *I should probably get a bookshelf...*
+
+***Big Box.***
+**Alex:** *Dillon does this a lot. Buys something. Orders it to my place. Maybe opens it. And then it's here for the foreseeable future. Top-notch friend.*
+
+***Laser Cutter.***
+**Alex:** *Dillon's laser cutter.*
+
+***3D Printer.***
+**Alex:** *Dillon's 3D printer.*
+
+***Dillon's Area.***
+**Alex:** *Dillon's workspace. I don't know half of what that stuff is. Boxes of who-knows-what... Laptop... Chair... Uh... Oscilloscope? Yeah, oscilloscope... And a bunch of wires and other junk.*
 
