@@ -41,6 +41,27 @@ Characters: Alex
 ***Subsequent clicks***
 	**Alex:** *Seriously, I need coffee.*
 
+##### Coffee Minigame
+---
+***First time playing.***
+	**Alex:** Alright. Coffee. I do this every day, and sometimes I still forget the steps, being half-asleep as I usually am.
+	**Alex**: Memorize the steps to make coffee *in order*.
+	***Have the list glow.***
+	**Alex**: After a while, the steps will disappear, and we'll be making coffee from memory. Tap the item corresponding to each step *in order*.
+	***Have a little finger icon tap items in order.***
+	**Alex:** And... that's it! Let's go!
+
+***Subsequent times.***
+	**Alex**: Alright, let's make coffee. Remember to memorize the steps *in order,* and then tap the item corresponding to each step *in order*.
+	**Alex**: Let's go!
+
+***Failure.***
+**Alex:** Hmph. I was so sure that was correct.
+**Alex**: Well. I have plenty of coffee to try again, so a failure isn't going to ruin my morning.
+
+***Success.***
+**Alex**: Ahh... wake up, and smell the coffee, Alex.
+
 ##### If the player tries to leave without coffee
 ---
 ***First click***
@@ -54,6 +75,27 @@ Characters: Alex
 **Alex:** *And I'm alive again. I should probably answer some emails before going to work.*
 
 **Alex:** *Technically, I'm procrastinating. But I mean... it's not as though the lab needs me...*
+
+##### Email Minigame
+---
+***First time playing.***
+	**Alex**: Next in my morning routine is emails. I can be pretty forgetful, so I like to write things down for later.
+	**Alex**: Go through the emails here - 
+	***Make email panel glow.***
+	**Alex**: - and then answer questions about the emails here.
+	***Make the question and answer panel glow.***
+	**Alex**: And that's it. Let's get to work.
+
+***Subsequent times.***
+	**Alex**: Remember - go through the emails and then answer questions about them.
+	**Alex**: Let's get to work.
+
+***Failure.***
+**Alex**: Hmm... That doesn't feel right.
+**Alex**: I should probably double-check.
+
+***Success.***
+**Alex**: Awesome. One email down.
 
 ##### If the player tries to leave without answering emails
 ---
@@ -116,6 +158,26 @@ Dr. Vytautas Kazlauskas
 **Alex:** *...that's not sketchy at all. I thought IT filters out spam mail. I guess some still make it through.*
 
 **Alex:** *Well, that's it. Time to get to the lab.*
+
+##### Getting Ready Minigame
+---
+***First time playing.***
+	**Alex**: Let's make sure I have everything I need for work.
+	**Alex**: Take note of the stuff I need - 
+	***Make the list glow.***
+	**Alex**: - and then when the list disappears, grab the items from the list.
+	***Have a finger icon tap on the items from the list.***
+	**Alex:** And... that's it! Let's go!
+
+***Subsequent times.***
+	**Alex**: Alright, let's grab my stuff. Remember to memorize the items on the list, and then tap on the items to grab them.
+
+***Failure.***
+**Alex**: I don't think I'm bringing the right stuff.
+**Alex**: I don't want to rush back here after leaving, so might we try again?
+
+***Success.***
+**Alex**: Okay, I'm ready. Time to face the day.
 
 ##### Object References
 ---
