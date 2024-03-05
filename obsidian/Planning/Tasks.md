@@ -2,23 +2,28 @@ This lists tasks we need to do.
 
 https://trello.com/b/zADLZojt/rehabrpg
 
+## Sprint Meeting 3/5/24
+	
+	* Arrow indicator on what to press (tutorial)
+* Alex with home clothes.
+		* **Billy**
+			* P1
+
 ## Sprint Meeting 2/29/24
 
 * Finished Alex with Lab coat for for Scene 1
 * Need: 
-	* Put alex in game
-		* SS
-			* **Billy**
-	* Update script dialogue in game.
-		* SS
-			* **Billy**
-	* Arrow indicator on what to press (tutorial)
-	* Alex with home clothes.
-		* **Billy**
-			* P1
-	* Descriptions written for each object.
-		* **Mary**
-			* P0
+	* ~~Put alex in game~~
+		* ~~SS~~
+			* ~~**Billy**~~
+	* ~~Update script dialogue in game.~~
+		* ~~SS~~
+			* ~~**Billy**~~
+
+	
+	* ~~Descriptions written for each object.~~
+		* ~~**Mary**~~
+			* ~~P0~~
 	* Dialogue on minigames
 		* **Mary**
 			* SS
