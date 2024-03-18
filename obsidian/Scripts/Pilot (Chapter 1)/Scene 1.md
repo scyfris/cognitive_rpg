@@ -241,3 +241,5 @@ Dr. Vytautas Kazlauskas
 ***Dillon's Area.***
 **Alex:** *Dillon's workspace. I don't know half of what that stuff is. Boxes of who-knows-what... Laptop... Chair... Uh... Oscilloscope? Yeah, oscilloscope... And a bunch of wires and other junk.*
 
+***Bathroom Door.***
+**Alex:** *Dillon thought it would be funny to stick a note on the bathroom door... It says, "WASH YOUR HANDS, YOU FILTHY ANIMAL."*
