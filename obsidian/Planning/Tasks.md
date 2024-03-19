@@ -2,28 +2,34 @@ This lists tasks we need to do.
 
 https://trello.com/b/zADLZojt/rehabrpg
 
+* Add description for note on the door.
+* Fix the last minigame - walking up to the chair doesn't work when clicking on it.
 ## Sprint Meeting 3/5/24
 	
-* UI when tap
-	* Billy
-		* P0
-* Arrow indicator on what to press (tutorial)
-	* Billy
-		* P0
-* Alex with home clothes.
-		* **Billy**
-			* SS
-* Update script dialogue in game.
+* * Main Menu
 		* SS
-			* **Billy**
+* Test on tablet / itch.io
+		* SS
+* ~~UI when tap~~
+	* ~~Billy~~
+		* ~~P0~~
+* ~~Arrow indicator on what to press (tutorial)~~
+	* ~~Billy~~
+		* ~~P0~~
+* ~~Alex with home clothes.~~
+		~~* **Billy**~~
+			~~* SS~~
+* ~~Update script dialogue in game.~~
+		~~* SS~~
+			~~* **Billy**~~
 * * UI Design
 		* **Mary**
 			* SS
 * * Minigame Background
 		* **MARY** - clothes finding and coffee minigame
 			* SS
-		* **Billy** - Email minigame
-			* SS
+		~~* **Billy** - Email minigame~~
+			~~* SS~~
 * Scaling difficulty (once they lose a minigame)
 		* **Billy**
 			* p1 (for now)
@@ -36,10 +42,7 @@ https://trello.com/b/zADLZojt/rehabrpg
 * Pallet
 	* **Mary will test pallets**
 		* P1
-* Main Menu
-		* SS
-* Test on tablet / itch.io
-		* SS
+
 * Buy mac laptop
 	* P1
 * Animation frames for things.
