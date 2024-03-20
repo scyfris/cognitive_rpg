@@ -4,6 +4,27 @@ https://trello.com/b/zADLZojt/rehabrpg
 
 * Add description for note on the door.
 * Fix the last minigame - walking up to the chair doesn't work when clicking on it.
+
+## Sprint Meeting 3/19/24
+
+### TODO
+- Mary  - Put Blender files under **RehabRPG\Games\PassingTime\Maps\Chapter1\AlexApartment\Minigames\MakeCoffee**
+
+* Billy - Fix following bugs:
+	* Coffee Minigame
+		* Remove green checks - should just fail if wrong click.
+		* Winning dialogue (check all dialogue)
+	* Email Minigame
+		* Remove "That's correct!"
+	* Dialogue
+		* Grammar - i.e. misplaced quotes, parentheses when there shouldn't be any
+
+* Billy - Create script of talking points for christina tomorrow.
+	List of things to opint out and discuss with Christina
+	* Scalable difficulty
+	* Carry-over
+* Billy - put on iPAD, see if way to screen share.
+
 ## Sprint Meeting 3/5/24
 	
 * * Main Menu
