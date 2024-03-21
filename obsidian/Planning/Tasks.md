@@ -5,25 +5,76 @@ https://trello.com/b/zADLZojt/rehabrpg
 * Add description for note on the door.
 * Fix the last minigame - walking up to the chair doesn't work when clicking on it.
 
+## Meeting with Christina - 3/20/24
+
+* She likes that patients need to remember the story across sessions.  Therapist can help them with memory.
+* Feedback on things:
+	* Decoupling game difficulty from hint difficulty (allow setting hint level separately from how difficult minigame is)
+	* Problem Solving
+		* If htey remember something wrong, like how to think through their mistakes - like giving clues, constant hint giving -> different levels of hint giving?
+	* Reading
+		* Audio option - enable/disable
+		* Reading option enable/disable (ex only audio to listen to messages)
+	* Sometimes she may want to challenge patient with only audio.
+	* I get sense that this is still very much a therapist-directed thing.
+* How to speech therapy?
+	* Christina explained:
+		* Lowest level - severe dyslexia, after 3 mo was able to see "cat" and say meow.
+		* Next level - had to learn to read again
+		* Next level - aphaxia
+		* Next level - reading impacted
+		* Next level - can read different paragraphs
+		* **We need to target a particular group, not try to cater to everyon**
+* Idea - highlight each section when reading (Christina really liked this)
+	* Could be an option, additional
+	* therapist can choose various options (audio vs text vs words vs no words)
+	* Idea - Another type of hint - 
+		* maybe arrow pointoing to item if they are taking too long
+		* **Therapist MUST be able to choose - if patient is frustrated or too difficult, add hint options -> then if patient gets it, therapist can add back in difficulty.**
+		* Audio hints, visual hints.
+* Idea  - Length of text adjustable.
+Could test on universities that have speech pathology programs.
+	* UT Austin
+	* Texas State
+	* Private University - St Augistine
+
+## Discussion about pricing model - 3/20/24
+3 phases
+phase 1 (Alpha testing phase)
+* Testing via testflight
+* Free
+* Only people we vet
+* Small group (5-10)
+* High functioning people who can give us feedback, have gone through rehab process first.
+* They get scene-by-scene
+* Start figuring out pricing model for phase 2 and phase 3.
+* Goes through end of Chapter 1
+phase 2 (beta testing phase, pricing model testing phase)
+* Testing via testflight
+* one-time cost
+* Small group (?)
+* High functioning people who can give us feedback, have gone through rehab process first.
+* Get Scene-by-scene
+* Goes through end of Chapter 2
+* **Figure out pricing model**
+phase 3 (full release)
+* App store
+* Free with IAP
+	* Chapter 1 is free
+	* Chapter >= 2 are in-app purchase.
+* Get word out, try to reach mass adoption.
+* Chapter-by-chapter (instead of scene-by-scene).
+	* New chapter comes out, app is notified.
+* Goes through end of game.
+* Higher employees.
+
+
 ## Sprint Meeting 3/19/24
 
 ### TODO
 - Mary  - Put Blender files under **RehabRPG\Games\PassingTime\Maps\Chapter1\AlexApartment\Minigames\MakeCoffee**
 
-* Billy - Fix following bugs:
-	* Coffee Minigame
-		* Remove green checks - should just fail if wrong click.
-		* Winning dialogue (check all dialogue)
-	* Email Minigame
-		* Remove "That's correct!"
-	* Dialogue
-		* Grammar - i.e. misplaced quotes, parentheses when there shouldn't be any
 
-* Billy - Create script of talking points for christina tomorrow.
-	List of things to opint out and discuss with Christina
-	* Scalable difficulty
-	* Carry-over
-* Billy - put on iPAD, see if way to screen share.
 
 ## Sprint Meeting 3/5/24
 	
