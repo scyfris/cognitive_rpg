@@ -1,9 +1,53 @@
-This lists tasks we need to do.
 
+Bug collector and random task tracker:
 https://trello.com/b/zADLZojt/rehabrpg
 
-* Add description for note on the door.
-* Fix the last minigame - walking up to the chair doesn't work when clicking on it.
+Scheduler
+https://docs.google.com/spreadsheets/d/1jWqPdcSwip3dCIGmhCRnbq65hl3xCeVIzp1cmZYRNW0/edit#gid=0
+
+
+4/1/24
+* Scene 2 
+	* Script - *Mary* filling out some gaps, overall mostly done.
+	* Graphics - *Mary* will do.
+	*  Minigames
+		* 1 - Walking around desks , this is not a separate minigame.  Alex just needs to get to his place.
+		* 2 - Linguistic minigame - Alex reviews papers
+			* Mary will write script for this.
+			* Billy will do graphics.
+		* 3 - Math game. - Practice basic arithmetic.  
+			* **New prototype**
+			* Mary - to design.
+				* TBD - how graphics and code works.
+* Overall
+	* Billy - Fix Blender animations in there.
+	* Billy - Fix other bugs.
+	* Billy - Code math game once design is ready and agreed on.
+	* Billy - Come up with design for difficulties might work for minigames, based on Christina's feedback.
+* At end of Scene 2, we get Jeramiah to look at it.
+
+4/1/24
+* Are we going to change pallet?
+* What code changes need to be cleaned up before we continue?
+	* Sequence recall blender for sure.
+
+**DEADLINE - End of April**
+
+
+## 3/26/24
+
+* Replace still animation scene with Blender
+* Figure out way to simplify the minigame code and creation process going forward ...
+* Work on Scene 2
+* Figure out way to separate apartment map from scenes...
+
+-- Notes 
+
+Quest system
+- Quests are defined as Resources
+- Prerequisites are defined in the quest resource
+- quests are given inside dialogues
+- * Should I instead make these "QuestLines" instead of individual quests?*
 
 ## Meeting with Christina - 3/20/24
 
@@ -11,7 +55,7 @@ https://trello.com/b/zADLZojt/rehabrpg
 * Feedback on things:
 	* Decoupling game difficulty from hint difficulty (allow setting hint level separately from how difficult minigame is)
 	* Problem Solving
-		* If htey remember something wrong, like how to think through their mistakes - like giving clues, constant hint giving -> different levels of hint giving?
+		* If they remember something wrong, like how to think through their mistakes - like giving clues, constant hint giving -> different levels of hint giving?
 	* Reading
 		* Audio option - enable/disable
 		* Reading option enable/disable (ex only audio to listen to messages)
