@@ -6,6 +6,41 @@ Scheduler
 https://docs.google.com/spreadsheets/d/1jWqPdcSwip3dCIGmhCRnbq65hl3xCeVIzp1cmZYRNW0/edit#gid=0
 
 
+**Sprint Meeting 4-16-2024**
+
+Billy and Mary - we need to hire artist in order to go faster. 
+- Look at artists over next few days, then hire. 
+- Help with Pallete 
+
+4/16/24
+
+* Script - *Mary* filling out some gaps, overall mostly done.
+	* ==ETA - End of 4/17==
+* Graphics - *Mary* will do.
+	* Desks
+	* 3 new NPCs (Sera, 2 other researchers)
+	* 
+*  Minigames
+	* 1 - Walking around desks , this is not a separate minigame.  Alex just needs to get to his place.
+		* Design - Create rough sketches - ==Billy and Mary work together==
+	* 2 - Linguistic minigame - Alex reviews papers
+		* Mary will write script for this.
+			* ==ETA - 4/17==
+		* Billy will do graphics.
+			* ==ETA - 4/26==
+	* 3 - Math game. - Practice basic arithmetic.  
+		* New prototype
+		* ==Billy and Mary work together to design==
+			* TBD - how graphics and code works.
+* Overall
+	* Billy - Figure out how to share scene maps between different scenes (for example, how to have a "Apartment" tilemap that we can show for all scenes, but still have the ability to make per-scene modifications ?)
+	* Billy - Fix Blender animations in there.
+	* Billy - Fix other bugs.
+	* Billy - Code math game once design is ready and agreed on.
+	* Billy - Come up with design for difficulty selection based on Christina's feedback.
+		* Work with Mary on Design.
+
+	
 4/1/24
 * Scene 2 
 	* Script - *Mary* filling out some gaps, overall mostly done.

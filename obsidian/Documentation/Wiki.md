@@ -390,3 +390,10 @@ You **must** select `Access as Unique Name ` from menu and name it " `FinishButt
 If you want to override it, then set `Finish Button Name Override` to `%FinishButton`.
 
 
+### Blender
+
+* Export as *.gltf*
+* Export animations merged together*
+	* ![[Pasted image 20240417114047.png]]
+* Create inheritted scene in Godot
+* Rebuild shaders
