@@ -131,7 +131,7 @@ Characters: Alex, Seraphina, Mark, Wei
 
 ***At this point, Alex hears someone saying, "ARE YOU SERIOUS???" Cue Seraphina’s argument with another researcher - Mark.***
 
-##### Scene 2: Argument between Seraphina and Mark
+##### Argument between Seraphina and Mark
 ---
 **Mark:** ...there *might* be a hidden variable theory that explains quantum entanglement.
 
@@ -171,13 +171,11 @@ Characters: Alex, Seraphina, Mark, Wei
 
 **Alex:** *No, Alex! You have to learn to stand up for yourself. Tell him what you really think! Mark was wrong, and -*
 
-**Alex:** I, uh, I mean... no, I think, um...
+**Alex:** Well, I...
 
-**Alex:** *Wei looks like he's getting more and more exasperated with my stammering every passing second. I don't blame him. At least, he's trying to be polite.*
+**Alex:** ...
 
-**Wei:** *sigh* How did you pass the job interviews?
-
-**Alex:** *... I didn't. They hired me because they were impressed with my thesis, not for my speaking ability.*
+**Alex:** ...
 
 **Wei:** If you ask me, someone needs to knock that woman down a notch. She's right, of course, but what is her problem? She acts as though she has something against all of us. She probably *has* something against all of us.
 
@@ -191,3 +189,23 @@ Characters: Alex, Seraphina, Mark, Wei
 
 ##### Starting Experiments Minigame
 ---
+***First time playing.***
+	**Alex:** I need to run some more experiments to fill in some gaps in our data.
+	**Alex:** Choose the correct variables to set to fill in the data gaps.
+
+***Subsequent times playing.***
+	**Alex:** Remember - choose the correct variables to set to fill in the data gaps in the experimental data.
+	**Alex:** Let's get to work.
+
+***Failure.***
+**Alex:** These numbers won't work...
+**Alex:** I should double check my work.
+
+***Success.***
+**Alex:** Everything seems to be in order. Great!
+
+##### Conclusion
+---
+**Alex:** Finally. The work day is finally over.
+
+**Alex:** I can't wait to get home and relax.
