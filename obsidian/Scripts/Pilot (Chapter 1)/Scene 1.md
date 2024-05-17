@@ -10,7 +10,7 @@ Characters: Alex
 ***(Lack of time) Black screen with only text.
 (With time) Shadowy, static-y, foreshadowing images.***
 
-**Alex's Voice:** *When I was younger, I used to dream about being a scientist. Not in the realistic way, mind you. That's what happens when your head is always stuck in a science fiction novel. Besides, I was a child - how was I supposed to know what being a scientist is really like?*
+**Alex's Voice:** *When I was younger, I used to dream about being a scientist. That's what happens when your head is always stuck in a science fiction novel. Besides, I was a child - how was I supposed to know what being a scientist is really like?*
 
 *I imagined myself clad in a white lab coat, unlocking the secrets of the universe. My romantic fantasies stretched as far as my imagination would allow them, far away from the little house I grew up in.*
 
@@ -73,7 +73,6 @@ Characters: Alex
 ##### After Alex makes coffee
 ---
 **Alex:** *And I'm alive again. I should probably answer some emails before going to work.*
-
 **Alex:** *Technically, I'm procrastinating. But I mean... it's not as though the lab needs me...*
 
 ##### Email Minigame
@@ -133,12 +132,12 @@ As part of our ongoing commitment to safety, we remind all members that the annu
 
 Hi Team,
 
-I noticed unexpected surges in quantum entanglement patterns that appear unrelated to external factors. However, I suspect it might be due to our environmental monitoring and experimental setup. Let's discuss this at our next meeting.
+I noticed unexpected numbers in our data from the most recent quantum entanglement experiment. So far, we haven't found a good explanation for them. However, I suspect it might be due to malfunctioning equipment or inaccurate measurements. Let's discuss this at our next meeting.
 
 Best,
 Mike
 
-**Alex:** *Dr. Chen's our research lead for this project. Unexpected surges unrelated to external factors are pretty much always due to mistakes in environmental monitoring or experimental setup. The meeting's tomorrow, so I'll need to take a look at the data tonight if I am to contribute anything meaningful...*
+**Alex:** *Dr. Chen's our research lead for this project. The meeting's tomorrow, so I'll need to take a look at the data tonight if I am to contribute anything meaningful...*
 
 **Alex:** *...*
 

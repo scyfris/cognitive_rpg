@@ -16,17 +16,13 @@ Characters: Alex, Dillon
 ***After each puzzle completed, Alex will say each of the following in order:***
 
 ***First.***
-	**Alex:** *I never thought research would make me feel so dead inside.*
-	**Alex:** *That rush of excitement when pursuing down the path my curiosity takes me... when's the last time I felt that?*
+	**Alex:** *It's been years... Why can't I just get over it?*
 
 ***Second.***
-	**Alex:** *It feels like everyone I talk to... they lost all sense of curiosity and love of discovery.*
-	**Alex:** *Mark today was just one example.*
-	**Alex:** *He knew Sera was right, but he couldn't bring himself to reject his theory.*
+	**Alex:** *He's six feet under, and I still can't enjoy my work.*
 
 ***Third.***
-	**Alex:** *Maybe he hoped it would make a name for himself, so he couldn't let go of the idea. Or maybe he just wanted to prove himself right. Whatever the reason, he had lost his curiosity for the truth.*
-	**Alex:** *Maybe I was too idealistic, becoming a researcher.*
+	**Alex:** *It's like... he haunts me, even in my colleagues.*
 
 ***Fourth. (With time) Turn this into a speech game, where the patient would say the things on screen.***
 	***Phone rings.***
@@ -58,11 +54,13 @@ Characters: Alex, Dillon
 
 **Alex:** What is that?
 
-**Alex:** *This is Dillon. We've been friends since high school. More like brothers, actually. We went to the same... well... he's a mechanic, and I'm a researcher.*
+**Alex:** *This is Dillon. We've been friends since high school. More like brothers, actually. We went to the same... well... he's a mechanic and engineer, and I'm a researcher.*
 
 **Alex:** *We're so close, he followed me all the way here to work. He has his own place, but he likes to come over to mine.*
 
 **Dillon:** No hello? You wound me, Al.
+
+***Dillon walks over to his spot and starts working.***
 
 **Alex:** You've turned my whole kitchen into a workshop! No more stuff!
 
@@ -74,11 +72,11 @@ Characters: Alex, Dillon
 
 **Alex:** *To be honest, I actually enjoy him working on his projects in my apartment. Makes the place feel less empty.*
 
-**Alex:** *Sometimes, he'd teach me some stuff, and actually, making stuff - it isn't that bad. It makes me feel like I'm actually doing something if that makes sense. Instead of my work going into some black hole somewhere.*
+**Alex:** *Sometimes, he'd teach me some stuff, and actually, making stuff - it isn't that bad. It's actually kinda fun.*
 
-**Alex:** *Maybe I should've become a mechanic instead of a researcher.*
+**Alex:** *Maybe I should've become a mechanic or engineer instead of a researcher.*
 
-**Alex:** *In any case, with my initial protests out of the way, we both settled into our routines. I figured I could look over Dr. Chen's data before the meeting tomorrow.*
+***Alex returns to his spot and starts working.***
 
 ##### Math Data Minigame
 ---
@@ -97,9 +95,9 @@ Characters: Alex, Dillon
 
 **Alex:** What the - ?
 
-**Alex:** *What is this? Dr. Chen's email specifically stated that the data shows outliers that appear unrelated to experimental factors. But the data here shows that the anomalies are occurring under specific experimental conditions involving extremely high-energy states.*
+**Alex:** *Dr. Chen's email specifically stated that the outliers are likely due to malfunctioning equipment or inaccurate measurements.*
 
-**Alex:** *Why did he reach such an obviously false conclusion?*
+**Alex:** *But this data pattern is clearly due to neither. It's happening in very specific cases - when there are very high energy states involved. Malfunctioning equipment or inaccurate measurements would have affected other data points as well, but the others are as expected.*
 
 ##### Conclusion
 ---
