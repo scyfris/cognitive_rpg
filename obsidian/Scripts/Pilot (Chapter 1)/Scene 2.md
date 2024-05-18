@@ -126,7 +126,7 @@ Characters: Alex, Seraphina, Mark, Wei
 
 **Alex:** *Seriously? Hidden variables? Hidden variables have been -*
 
-**Sera:** - thoroughly debunked since the days of Bell's theorem. Stop inventing things to suit your theories!
+**Sera:** - thoroughly debunked since the days of Bell's theorem. Stop inventing things to suit your theories.
 
 **Mark:** Aren't you being rather close-minded? After all -
 
