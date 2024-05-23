@@ -1,7 +1,7 @@
 ##### Settings
 ---
 Location: Alex's apartment followed by Quantum Physics National Laboratory - meeting room.
-Number of minigames: 0
+Number of minigames: 3 in Alex's apartment - Alex's morning routine.
 Dialogue options: 1
 Characters: Alex, Sera, Dr. Chen, Wei, other researchers.
 
@@ -9,7 +9,68 @@ Characters: Alex, Sera, Dr. Chen, Wei, other researchers.
 ---
 ***This is Alex's morning routine from now on.***
 
-**Alex:** Need to make coffee and dress before work.
+**Alex:** Alright, coffee, emails, and then dress for work.
+
+***The following is just templates for the emails, since this minigame will be played every day in this game.***
+
+**Email Template 1**
+Subject: Project Update
+
+Hi all,
+
+I wanted to give a quick update on the {project_name} project. Our recent tests on the {specific_experiment} have shown {observation_results}. 
+
+We are planning to discuss this further and could use everyone's input. How does your schedule look to join a call next week? Please let me know. 
+
+Thanks and best regards,
+{name}
+
+**Email Template 2**
+Subject: Conference Invitation
+
+Dear Dr. Wright,
+
+We are hosting a conference on {research_area} and would love for you to attend. It will be held at {conference_location} on {conference_date}. This event will gather experts from various fields, and it would be great to have you share your insights. Please RSVP if you can make it.
+
+Thank you,
+{name}
+
+**Email Template 3**
+Subject: Share Your Thoughts on Initial Findings
+
+Hi, all,
+
+I am writing to share some initial findings from our {project_name}. We have started to see {observation_results}, which are intriguing and could lead to significant advancements in {research_area}. I would appreciate any feedback on these preliminary results. Could everyone review the attached data and provide your insights? Looking forward to your valuable input.
+
+Best regards, 
+{name}
+
+**Email Template 4**
+Subject: Request for Peer Review Assistance 
+
+Hello. I'm currently preparing a paper on our findings in {project_name} and would greatly value everyone's expertise in reviewing it before submission. Your insights would be incredibly beneficial, especially around our analysis of {specific_experiment}. Would you be available to provide your feedback by {deadline}?
+
+Thanks so much in advance,
+{name}
+
+**Email Template 5**
+Subject: Invitation to Upcoming Seminar
+
+Dear Dr. Wright, 
+
+We are excited to invite you to a seminar titled "{seminar_title}" being held at {seminar_location} on {seminar_date}. This event will cover new trends in {research_area} and will feature several key speakers, including renowned experts in the field. Please let us know if you can attend. We look forward to your participation. 
+
+Warm regards, 
+{name}
+
+**Variables**
+**{project_name}**: "Antimatter Research", "Dark Matter Exploration", "Standard Model Testing"
+**{specific_experiment}**: "Electron Positron Collisions", "Neutrino Tracking Study", "Photon Beam Tests"
+**{observation_results}**: "promising early results", "expected patterns", "some surprising data"
+**{research_area}**: "Quantum Chromodynamics", "Particle Acceleration Techniques", "Theoretical Physics Applications"
+**{conference_location}**: "Virtual Meeting Room A", "Beta Conference Hall", "Gamma Auditorium"
+**{seminar_title}**: "Future of Particle Physics", "Advancements in Quantum Mechanics", "Next Steps in High Energy Physics"
+**{seminar_location}**: "Sigma Auditorium", "Quantum Hall", "Virtual Platform"
 
 ##### Meeting with Dr. Chen
 ---
@@ -45,7 +106,7 @@ Characters: Alex, Sera, Dr. Chen, Wei, other researchers.
 
 ***Silence.***
 
-**Alex:** I... don't think... The data doesn't look like... equipment malfunction... We accounted for that... in the experimental design...
+**Alex:** I don't think... The data doesn't look like equipment malfunction... We accounted for that in the experimental design...
 
 **Alex:** *Suddenly, Dr. Chen looked rather uncomfortable. However... Sera... is she smiling? I don't think I've ever seen her smile in my time here. I must be imagining it because when I blinked, her intense expression was back on her face as she turned to Dr. Chen.*
 
@@ -94,6 +155,6 @@ Characters: Alex, Sera, Dr. Chen, Wei, other researchers.
 	**Sera:** Like I said, you're welcome to join.
 	**Result:** Sera loves that response.
 
-**Sera:** If you're interested in joining me, feel free to find me for lunch.
+**Sera:** If you're interested in joining me, feel free to find me after work.
 
 ***Sera walks out of the meeting room.***
