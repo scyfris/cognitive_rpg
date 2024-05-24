@@ -156,7 +156,7 @@ Characters: Alex, Seraphina, Mark, Wei
 
 **Alex:** *Oh, the conversation between Sera and Mark.*
 
-**Alex:** *Honestly, I'd rather not get on either of their bad sides, if I can help it. But he seems to want me to choose a side.*
+**Alex:** *Honestly, I'd rather not get on anyone's bad side, if I can help it. But he seems to want me to choose a side.*
 
 **Alex:** *No, Alex! You have to learn to stand up for yourself. Tell him what you really think! Mark was wrong, and -*
 
