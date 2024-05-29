@@ -30,12 +30,12 @@ After work, they try to replicate the results of the experiment. As Dr. Chen sai
 		Sets up an emotional gut response from the researcher's derision.
 
 #### Scene 6
-Alex goes home and sees Dillon still working on the motors for his electric skateboard. He makes ramen for him, and they talk about what happened that day.
+Alex goes home and sees Dillon still working on the motors for his electric skateboard. They talk about what happened that day.
 	Purpose:
-		Highlights Alex's respect for Sera.
+		Glimpses of Sera's background.
 
 #### Scene 7
-Wei confronts Alex about working with Sera. He reminds Alex of his paper that he is working on and warns him to watch out for himself - Sera's a highly ambitious researcher who might be chasing after something that she thinks will give her the most recognition even if it's clear that it will lead to nowhere.
+Wei confronts Alex about working with Sera. He warns him to watch out for himself - Sera's a highly ambitious researcher who wasn't afraid of throwing people under the bus if they don't live up to her standards.
 	Purpose:
 		Raise the stakes.
 		Details into others' impression of Sera.
