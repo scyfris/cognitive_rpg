@@ -129,9 +129,26 @@ TO BE ADDED
 
 **Researcher:** You must really think you're some sort of hot shot, don't you?
 
-**Alex:** *Sera's eyes narrowed. It doesn't take a genius to tell she's angry.*
+**Alex:** *Sera's eyes narrowed. It doesn't take a genius to tell she's angry. But surprisingly, especially considering her reputation, she didn't reply.*
 
-**Sera:** 
+**Researcher:** I'll leave you two to waste time.
+
+***And with that, the researcher leaves them alone.***
+
+**Alex:** *Should I say something?*
+
+***Dialogue option 1 - lower relationship with Sera a lot.***
+	**Alex:** Do you? Do you think you're better than everyone?
+	**Sera:** Do you? You're here too, you know. Are you here because you don't think everyone else did a good job trying to reproduce the data?
+	**Result:** Sera hates that response.
+***Dialogue option 3 - raises relationship with Sera slightly.***
+	**Alex:** There might be something there. What do you plan to do?
+	**Sera:** Run experiments until I can reproduce the data of course.
+	**Result:** Sera likes that response.
+***Dialogue option 4 - raises relationship with Sera a lot.***
+	**Alex:** You're going to? And you're asking me? I'd love to!
+	**Sera:** Like I said, you're welcome to join.
+	**Result:** Sera loves that response.
 
 
 

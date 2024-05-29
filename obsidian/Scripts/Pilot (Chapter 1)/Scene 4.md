@@ -120,7 +120,7 @@ Warm regards,
 
 **Alex:** *It looks like Dr. Chen and Sera are about to go into a full-blown shouting match. Well... mostly Dr. Chen is shouting. Sera... doesn't really shout. In fact, now that I think about it, her voice is softer than her personality.*
 
-**Sera:** But it's consistent with the data. This is a breakthrough. Why won't you publish instead of trying to find some ridiculous excuse for the data not being right?
+**Sera:** But it's consistent with the data. This is a breakthrough. Why won't you publish instead of trying to find an excuse for the data not being right?
 
 **Dr. Chen:** Because we can't reproduce the data! We've run the experiment multiple times over, and we can't get the data to reproduce! If we publish this data with such far-fetched implications, and other researchers can't reproduce the data, our reputation's ruined.
 
