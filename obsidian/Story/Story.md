@@ -35,66 +35,58 @@ Alex goes home and sees Dillon still working on the motors for his electric skat
 		Glimpses of Sera's background.
 
 #### Scene 7
-Wei confronts Alex about working with Sera. He warns him to watch out for himself - Sera's a highly ambitious researcher who wasn't afraid of throwing people under the bus if they don't live up to her standards.
+Wei confronts Alex about working with Sera. He warns him to watch out for himself - Sera's a highly ambitious researcher who wasn't afraid of throwing people under the bus.
 	Purpose:
 		Raise the stakes.
 		Details into others' impression of Sera.
 
 #### Scene 8
-Sera and Alex are at it again trying to reproduce the data. They are tweaking different parameters, including environmental. Alex asks about her thoughts on this experiment and whether/when she thinks they should give up. Her answer surprises him.
+Sera and Alex are at it again trying to reproduce the data. Sera notices Alex's notebook, and they have a discussion about it. Alex confronts her about the incident with the research team she got fired.
 	Purpose:
-		Alex and Sera talks about the incident the other day.
 		Delving into Sera's character and Alex's reactions to it.
 		Sera's observation of Alex's character - specifically his low self-esteem with regards to his ideas.
-		Brings forth Alex's notebook as an excuse for her to visit.
+		Alex invites her to their weekend game nights, to which she agrees to join.
 
 #### Scene 9
-After their experiments, Alex takes Sera home to show her his notebook. Dillon invites her to their weekend game nights, to which she agrees to join.
-	Purpose:
-		Dillon and Sera meets.
-		Sera's impressed with Alex's ideas.
-		Alex makes her ramen and egg XD
-
-#### Scene 10
 As per tradition, Alex is "forced" to host video gaming tournaments on Saturdays at his studio. Really, it's just for Dillon and his friends and, now, Sera. Dillon insists it's for Alex's own good because otherwise, Alex would just be a loner with nothing other than work to keep him occupied. At the end of the night, Sera tentatively extends a reciprocating invite for Alex to visit her place for a house party the following week.
 	Purpose:
 		Sera and Alex meet on more casual terms.
 
-#### Scene 11
+#### Scene 10
 On Monday, Sera and Alex finally hit a dead end with their experiments. Alex asks what experiments were run before Dr. Chen's experiments. They decide to try rerunning those experiments before rerunning Dr. Chen's experiments with the same parameters.
 	Purpose:
 		 Sera addresses his insecurities.
 		 Alex finds his spark for research again and realizes a missing factor - a partner.
 
-#### Scene 12
+#### Scene 11
 After pulling an all-nighter setting up the previous experiment, they finally put it on autopilot. Too early to go straight to work, but too late to go home before work, they settled for drinking coffee in the break room. Alex asks if she could help him by reviewing his paper before submission. She's surprised he asked her of all people but agrees.
 	Purpose:
 		Just bonding.
 	 Location:
 		 Break room
 
-#### Scene 13
+#### Scene 12
 After work, she approaches him to give him her feedback. He takes her criticism gracefully, which she appreciates. To soften the criticism, she offers to help him improve the paper over dinner before the house party.
 	Purpose:
 		Hints at insecurities and opening up.
 
-#### Scene 14
+#### Scene 13
 Alex sees Sera's apartment for the first time. During the party, he meets her friends and is surprised at her type of friends. He is also surprised at how much she drinks, considering he doesn't drink at all.
 	Purpose:
 		Foreshadows Sera's mental state and background.
 	==Billy==  - I think this should be split into two scenes?  1 before party where they have their dinner together, and 1 during party.
 
-#### Scene 15
+#### Scene 14
 The experiments done, Sera and Alex validate Alex's theory. The results are now reproducible. Excited, Sera comes over to Alex's to analyze the data together.
 	Purpose:
 		The realization of exotic matter, the presence of wormholes, and the possibility of time travel.
 
-#### Scene 16
+#### Scene 15
 They start to write the joint paper on the possibility of time travel. Alex overhears Sera's conversation with her parents.
 	Purpose:
 		Introduces Sera's background.
 
-#### Scene 17
+#### Scene 16
 When they finish the paper, before they submit it, Sera tells Alex she isn't sure she wants her name on it. Alex tells her that if that's the case, then they simply won't publish the paper. She is surprised because if they publish, it would've been a breakthrough paper.
 	Purpose:
 		A crucial connecting moment - neither care for recognition so much as chasing after knowledge.
