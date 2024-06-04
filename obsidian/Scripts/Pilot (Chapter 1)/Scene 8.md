@@ -1,8 +1,8 @@
 ##### Settings
 ---
 Location: Quantum Physics National Laboratory - lab.
-Number of minigames:
-Dialogue options: 0.
+Number of minigames: 1
+Dialogue options: 1.
 Characters: Alex, Sera
 
 ##### Sera Notices Alex's Notebook
@@ -10,8 +10,6 @@ Characters: Alex, Sera
 ***After work, Sera and Alex are sitting in the lab, working on analyzing the data received from the experiments that day. The table is strewn with notebooks and papers. Sera is going between them all at a fast pace. Alex is fidgeting.***
 
 **Alex:** *What do I do? Should I confront her about it?*
-
-**Alex:** ...
 
 **Alex:** *Yeah, right. When have I ever confronted anyone about anything? Besides, she might get angry and -*
 
@@ -74,6 +72,46 @@ Characters: Alex, Sera
 
 **Alex:** *...she really doesn't seem like someone who would get her entire research team fired for essentially a nonexistent cause.*
 
-**Sera:** Anyway, I've analyzed the data from the experiments run. And it doesn't look like vibration, sound, or light variables reproduce those data points. Which means we can try your idea - time. 
+**Sera:** Anyway, I've analyzed the data from the experiments run. You should take a look as well to make sure our conclusions line up.
+
+***Cue Math minigame.***
+
+**Alex:** It doesn't look like vibration, sound, or light variables reproduce those data points.
+
+**Sera:** Which means we can try your idea - time. 
 
 **Sera:** We need to carefully design this though. Particles have no understanding of "9pm". So we need to figure out how to test time as a variable here.
+
+***Pause for a few seconds.***
+
+**Sera:** What's wrong?
+
+***Dialogue option 1 - lower relationship with Sera slightly.***
+	**Alex:** Why did you get that research team fired?
+	**Sera:** ...well, I...
+	**Sera:** You already think I'm guilty. You can believe what you want. I don't owe you anything. 
+	**Result:** Sera hates that response.
+***Dialogue option 2 - no changes.***
+	**Alex:** I heard the story from Wei. You know. From last year, when you -
+	**Sera:** - got an entire research team fired for fabricating data on a paper they didn't even publish?
+	**Sera:** I'd rather not talk about that.
+
+**Alex:** We're working together. And this is relevant.
+
+**Sera:** ...
+
+**Sera:** I didn't get them fired.
+
+**Sera:** I was on the team for a while. Unfortunately, time dragged on, and we were having trouble producing any groundbreaking results.
+
+**Sera:** Feeling pressured, they finally decided to fabricate the data, knowing that very rarely does published data get validated. That's just the nature of things - researchers want to spend their time exploring their own ideas, not verifying others' findings.
+
+**Sera:** I didn't want to do that, so they kicked me off the team on the premise that I was causing too much drama within the team. Which... apparently isn't too hard to believe.
+
+**Sera:** Since I had been on the team, I knew all of the experiments ran. So I spent a while replicating all of the experiments we ran. And then I threatened to release it all if they published.
+
+**Sera:** They were shocked I had the guts to do such a thing. Especially since I was a relatively new researcher, and they were all my seniors.
+
+**Sera:** But that's why the paper was never published. However... I'm not sure how, but the fabricated data, along with my own data, was leaked. And the press loved the drama. And well... the rest is history.
+
+**Sera:** They were angry, thinking that I ratted them out anyway, so they told everyone the fabricated data was an accident and that they had been planning 
