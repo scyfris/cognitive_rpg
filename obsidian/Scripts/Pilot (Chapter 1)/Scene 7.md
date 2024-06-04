@@ -27,11 +27,11 @@ Characters: Alex, Wei
 
 **Wei:** You remember what happened last year just before you joined us? How she got an entire research team fired?
 
-**Alex:** Yes...
+**Alex:** It was in the papers....
 
 **Wei:** She used to be part of that research team. But then they kicked her off because she caused too much drama on the team. You know how she is.
 
-**Wei:** To save face, she analyzed their data and latched onto a few datapoints that were accidentally included from a machine malfunction. And then accused the team of data fabrication.
+**Wei:** To save face, she analyzed their data and latched onto data that were accidentally included from a machine malfunction. And then accused the team of data fabrication.
 
 **Wei:** The thing is... that data? It wasn't even published. The research team never published it. It was just something they had on draft. And they were fired over it.
 

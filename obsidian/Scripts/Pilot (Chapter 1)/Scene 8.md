@@ -2,7 +2,7 @@
 ---
 Location: Quantum Physics National Laboratory - lab.
 Number of minigames: 1
-Dialogue options: 1.
+Dialogue options: 2.
 Characters: Alex, Sera
 
 ##### Sera Notices Alex's Notebook
@@ -70,7 +70,7 @@ Characters: Alex, Sera
 
 **Sera:** Late night ramblings can have merit.
 
-**Alex:** *...she really doesn't seem like someone who would get her entire research team fired for essentially a nonexistent cause.*
+**Alex:** *Did she really get her entire research team fired for essentially a nonexistent cause?*
 
 **Sera:** Anyway, I've analyzed the data from the experiments run. You should take a look as well to make sure our conclusions line up.
 
@@ -102,16 +102,54 @@ Characters: Alex, Sera
 
 **Sera:** I didn't get them fired.
 
-**Sera:** I was on the team for a while. Unfortunately, time dragged on, and we were having trouble producing any groundbreaking results.
+**Sera:** I was on the team for a while, and we were having trouble producing any groundbreaking results.
 
-**Sera:** Feeling pressured, they finally decided to fabricate the data, knowing that very rarely does published data get validated. That's just the nature of things - researchers want to spend their time exploring their own ideas, not verifying others' findings.
+**Sera:** Feeling pressured, they finally decided to fabricate the data, knowing that very rarely does published data get validated - researchers want to spend their time exploring their own ideas, not verifying others' findings.
 
-**Sera:** I didn't want to do that, so they kicked me off the team on the premise that I was causing too much drama within the team. Which... apparently isn't too hard to believe.
+**Sera:** I didn't want to do that, and I threatened to publish a dissenting paper with the real data if they published - which would've ruined their careers.
 
-**Sera:** Since I had been on the team, I knew all of the experiments ran. So I spent a while replicating all of the experiments we ran. And then I threatened to release it all if they published.
+**Sera:** They were shocked I had the guts. Especially since I was a relatively new researcher, and they were all my seniors.
 
-**Sera:** They were shocked I had the guts to do such a thing. Especially since I was a relatively new researcher, and they were all my seniors.
+**Sera:** If they only knew my parents and our history...
 
-**Sera:** But that's why the paper was never published. However... I'm not sure how, but the fabricated data, along with my own data, was leaked. And the press loved the drama. And well... the rest is history.
+**Sera:** Anyway, they ended up not publishing. But they still kicked me off the team on the premise that I was causing too much drama. Which... isn't too hard to believe.
 
-**Sera:** They were angry, thinking that I ratted them out anyway, so they told everyone the fabricated data was an accident and that they had been planning 
+**Sera:** However... I'm not sure how, but the fabricated data, along with my own data, was leaked. And the press loved the drama. And well... the rest is history.
+
+**Sera:** They were angry, thinking that I ratted them out anyway, so they told everyone the fabricated data was an accident from an equipment malfunction, and that they had been planning to verify the data. That I had tried to defame them.
+
+**Alex:** But they were fired?
+
+**Sera:** I had the press on my side. For once, the press actually reported the truth. But our colleagues... no one actually thought they were guilty.
+
+**Sera:** The press reported that a researcher gave them this story. A researcher from the institution. The press *says* the researcher isn't me.
+
+**Alex:** Everyone thought it was you. 
+
+**Sera:** It wasn't.
+
+**Alex:** *So that's what happened... But why didn't she push back against their story? Did she think it was a hopeless battle? That no one would believe her?*
+
+**Alex:** *To be honest, her story isn't that believable... I mean, the paper was never published, and no one else at this institute - including this unnamed researcher - has said anything to confirm or deny Sera's innocence.*
+
+***Flashback of Sera's silence the day before.***
+
+**Alex:** *But strangely... I believe her.*
+
+**Alex:** Hey, are you busy this weekend?
+
+**Sera:** What?
+
+**Alex:** My friend Dillon is hosting... well, he's forcing me to host a friendly video game tournament at my apartment every Saturday.
+
+**Alex:** Uh, you're welcome to join.
+
+**Sera:** ...
+
+**Alex:** But not obligated to!
+
+**Sera:** What games?
+
+***The scene fades to black.***
+
+**Alex's Voice:** In the end, Sera accepted the invitation.
