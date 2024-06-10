@@ -152,4 +152,4 @@ Characters: Alex, Sera
 
 ***The scene fades to black.***
 
-**Alex's Voice:** In the end, Sera accepted the invitation.
+**Alex's Voice:** In the end, Sera accepted the invitation. 
