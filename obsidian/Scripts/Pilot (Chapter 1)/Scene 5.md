@@ -139,7 +139,7 @@ TO BE ADDED
 
 ***Dialogue option 1 - lower relationship with Sera a lot.***
 	**Alex:** Do you? Do you think you're better than everyone?
-	**Sera:** Do you? You're here too, you know. Are you here because you don't think everyone else did a good job trying to reproduce the data?
+	**Sera:** Do you? Are you here because you don't think everyone else did a good job trying to reproduce the data?
 	**Result:** Sera hates that response.
 ***Dialogue option 2 - raises relationship with Sera a lot.***
 	**Alex:** I'll be here tomorrow. With a Do Not Disturb sign. Are you okay?
