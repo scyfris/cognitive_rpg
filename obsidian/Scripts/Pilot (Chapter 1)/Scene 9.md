@@ -111,3 +111,24 @@ Characters:
 
 **Dillon:** Because I make him. It's for his own good because otherwise, he would just be a loner with nothing other than work to keep himself occupied.
 
+***Dialogue option 1 - set variable AlexFreePizza.***
+	**Alex:** I became a charity case when he discovered free pizza.
+	**Dillon:** Free food is part of hosting. And you are the best host.
+***Dialogue option 2 - set variable AlexStableInternet***
+	**Alex:** The protection of his wings stretches as far as stable internet.
+	**Dillon:** You have fiber. I have satellite. 
+**Result:** Sera will remember this.
+
+##### Round 3 - Tapping Game
+---
+***After the game is finished, the screen fades to black with the following message.***
+
+**Alex's Voice:** *The games continued until late at night. Eventually though, people got tired, and Dillon had to end it. I'm sure if he had the choice though, he could go on all night. As is, we all said our goodbyes with promises to meet up again next week, and people filed out until it was just me and Sera.*
+
+***The screen fades in to show Alex and Sera.***
+
+**Sera:** Thanks for inviting me. It was a lot of fun.
+
+**Alex:** Feel free to come by for next week.
+
+**Sera:** I will.
