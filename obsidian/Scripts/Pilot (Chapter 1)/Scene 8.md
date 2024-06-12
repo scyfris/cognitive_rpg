@@ -43,13 +43,7 @@ Characters: Alex, Sera
 
 **Alex:** *Is she holding my - ?*
 
-**Sera:** Here. Sorry for grabbing it. I was trying to grab my notebook but accidentally picked up yours.
-
-**Alex:** *...what was she trying to do?*
-
-**Sera:** ...
-
-**Sera:** I didn't realize I picked up the wrong notebook until I opened it.
+**Sera:** Here. Sorry for grabbing it. I was trying to grab my notebook but accidentally picked up yours. I didn't realize I picked up the wrong notebook until I opened it.
 
 ***Dialogue option 1 - lower relationship with Sera a lot.***
 	**Alex:** What were you trying to do???
@@ -60,7 +54,7 @@ Characters: Alex, Sera
 	**Sera:** What is that supposed to mean?
 	**Result:** Sera hates that response.
 ***Dialogue option 3 - raises relationship with Sera slightly.***
-	**Alex:** Accidents happen.
+	**Alex:** It's fine... Accidents happen.
 	**Sera:** Sorry. I'll be more careful next time.
 	**Result:** Sera likes that response.
 
@@ -86,7 +80,7 @@ Characters: Alex, Sera
 
 **Sera:** What's wrong?
 
-***Dialogue option 1 - lower relationship with Sera slightly.***
+***Dialogue option 1 - lower relationship with Sera a lot.***
 	**Alex:** Why did you get that research team fired?
 	**Sera:** ...well, I...
 	**Sera:** You already think I'm guilty. You can believe what you want. I don't owe you anything. 

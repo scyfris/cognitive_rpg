@@ -99,11 +99,11 @@ TO BE ADDED
 
 **Alex:** *As the word processes in her mind, her eyebrows furrowed. I knew I shouldn't have said anything. Now you've done it, Alex. She's going to berate you on your stupidity...*
 
-**Sera:** Time isn't really a variable we check.
+**Sera:** Time isn't really a variable we check. At least not in the way I think you're suggesting.
 
-**Alex:** *I know... But the idea just kinda... came up.*
+**Alex:** *I know... But the ramifications of Dr. Chen's data make me wonder...*
 
-**Sera:** But our field does have some crazy stuff in it. Maybe time is a variable we should be checking. There's no evidence that time *doesn't* play a factor. We'll try it if these experiments don't show what we're looking for.
+**Sera:** But our field does have some crazy stuff in it. We can consider our options if these experiments don't show what we're looking for.
 
 **Alex:** *Wait... is she actually taking my idea seriously?*
 
@@ -138,11 +138,12 @@ TO BE ADDED
 **Alex:** *Should I say something?*
 
 ***Dialogue option 1 - lower relationship with Sera a lot.***
-	**Alex:** Do you? Do you think you're better than everyone?
-	**Sera:** Do you? Are you here because you don't think everyone else did a good job trying to reproduce the data?
+	**Alex:** Why do you want to pursue this? I mean... they've already tried...
+	**Sera:** Why do you? Are you here because you don't think everyone else did a good job trying to reproduce the data?
+	**Sera:** I want to pursue this because I believe there is something here and I want to find out what it is.
 	**Result:** Sera hates that response.
 ***Dialogue option 2 - raises relationship with Sera a lot.***
-	**Alex:** I'll be here tomorrow. With a Do Not Disturb sign. Are you okay?
+	**Alex:** I'll be here tomorrow. Are you okay?
 	**Sera:** I'm fine. I'll see you tomorrow then.
 	**Result:** Sera loves that response.
 

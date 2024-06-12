@@ -1,9 +1,9 @@
 ##### Settings
 ---
 Location: Alex's apartment.
-Number of minigames:
-Dialogue options:
-Characters:
+Number of minigames: 4
+Dialogue options: 1
+Characters: Alex, Sera, Dillon, Dillon's 3 friends.
 
 ##### Setting Up for Video Game Tournament
 ---

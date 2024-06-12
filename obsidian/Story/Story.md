@@ -48,27 +48,18 @@ Sera and Alex are at it again trying to reproduce the data. Sera notices Alex's 
 		Alex invites her to their weekend game nights, to which she agrees to join.
 
 #### Scene 9
-As per tradition, Alex is "forced" to host video gaming tournaments on Saturdays at his studio. Really, it's just for Dillon and his friends and, now, Sera. Dillon insists it's for Alex's own good because otherwise, Alex would just be a loner with nothing other than work to keep him occupied. At the end of the night, Sera tentatively extends a reciprocating invite for Alex to visit her place for a house party the following week.
+As per tradition, Alex is "forced" to host video gaming tournaments on Saturdays at his studio. Really, it's just for Dillon and his friends and, now, Sera. Dillon insists it's for Alex's own good because otherwise, Alex would just be a loner with nothing other than work to keep him occupied.
 	Purpose:
 		Sera and Alex meet on more casual terms.
 
 #### Scene 10
-On Monday, Sera and Alex finally hit a dead end with their experiments. Alex asks what experiments were run before Dr. Chen's experiments. They decide to try rerunning those experiments before rerunning Dr. Chen's experiments with the same parameters.
-	Purpose:
-		 Sera addresses his insecurities.
-		 Alex finds his spark for research again and realizes a missing factor - a partner.
+On Monday, breakthrough. After pulling an all-nighter setting up the experiment, they finally put it on autopilot. Too early to go straight to work, but too late to go home before work, they settled for drinking coffee in the break room.
 
 #### Scene 11
-After pulling an all-nighter setting up the previous experiment, they finally put it on autopilot. Too early to go straight to work, but too late to go home before work, they settled for drinking coffee in the break room. Alex asks if she could help him by reviewing his paper before submission. She's surprised he asked her of all people but agrees.
-	Purpose:
-		Just bonding.
-	 Location:
-		 Break room
+At work, Sera updated Alex on the success of reproducing the data before proceeding to send out an update email. After work, he heard Dr. Chen yelling at Sera. Unsurprisingly, he had become offended, viewing their effort as a way to show him up. Alex was surprised at Sera's self-control even though it looked as though she was about to tear into him a new one. Instead she leaves the office without a word. Alex hesitates before following her.
 
 #### Scene 12
-After work, she approaches him to give him her feedback. He takes her criticism gracefully, which she appreciates. To soften the criticism, she offers to help him improve the paper over dinner before the house party.
-	Purpose:
-		Hints at insecurities and opening up.
+Alex had to ask around to figure out where Sera went. It turned out she went to the bar. When he finally came in, he found Sera already on her second drink - a very strong drink. They talk for a bit before Alex offers to walk her home as she was already very drunk.
 
 #### Scene 13
 Alex sees Sera's apartment for the first time. During the party, he meets her friends and is surprised at her type of friends. He is also surprised at how much she drinks, considering he doesn't drink at all.

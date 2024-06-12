@@ -140,8 +140,6 @@ Characters: Alex, Seraphina, Mark, Wei
 
 *Sera marches away, leaving Mark fuming.*
 
-**Alex:** *...*
-
 **Alex:** *Sera's not one to mince words. If I could only be half as eloquent, most of my problems wouldn't be problems.*
 
 *The researcher next to Alex's desk turns to him.*
