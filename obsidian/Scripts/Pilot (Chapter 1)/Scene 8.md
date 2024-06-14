@@ -46,14 +46,10 @@ Characters: Alex, Sera
 **Sera:** Here. Sorry for grabbing it. I was trying to grab my notebook but accidentally picked up yours. I didn't realize I picked up the wrong notebook until I opened it.
 
 ***Dialogue option 1 - lower relationship with Sera a lot.***
-	**Alex:** What were you trying to do???
-	**Sera:** Calm down... It was an accident...
-	**Result:** Sera hates that response.
-***Dialogue option 2 - lower relationship with Sera a lot.***
 	**Alex:** Was it really an accident?
 	**Sera:** What is that supposed to mean?
 	**Result:** Sera hates that response.
-***Dialogue option 3 - raises relationship with Sera slightly.***
+***Dialogue option 2 - raises relationship with Sera slightly.***
 	**Alex:** It's fine... Accidents happen.
 	**Sera:** Sorry. I'll be more careful next time.
 	**Result:** Sera likes that response.
