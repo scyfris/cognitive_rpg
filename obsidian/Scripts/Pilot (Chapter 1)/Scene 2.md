@@ -47,18 +47,6 @@ Characters: Alex, Seraphina, Mark, Wei
 
 **Alex:** *Let’s see… I should probably review those papers for the journal. I also need some more data for my next paper. I am part of the research team for Dr. Chen's research, but researchers usually also work on other projects simultaneously and head their own projects. I actually have my own research going on...*
 
-**Alex:** …
-
-**Alex:** *Although at this point, I’m not really sure how much of it is my paper vs. everyone else’s.*
-
-**Alex:** *I mean, I didn’t have much input into it, despite being the research lead. I’m kinda just doing what they tell me to do.*
-
-**Alex:** ...
-
-**Alex:** *I'm not bitter. Really. It's... not really their fault.*
-
-**Alex:** *I'm just bad at communication, specifically with people who know me but whom I don't... trust.*
-
 ##### Reviewing Papers Minigame
 ---
 ***First time playing.***
@@ -141,6 +129,8 @@ Characters: Alex, Seraphina, Mark, Wei
 *Sera marches away, leaving Mark fuming.*
 
 **Alex:** *Sera's not one to mince words. If I could only be half as eloquent, most of my problems wouldn't be problems.*
+
+**Alex:** *I'm just bad at communication, specifically with people who know me but whom I don't... trust.*
 
 *The researcher next to Alex's desk turns to him.*
 
