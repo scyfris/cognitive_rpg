@@ -2,6 +2,9 @@
 
 This Wiki will explain the core features of the AGG Story Plugin!
 
+## Task Tracking
+
+
 ## Folder Structure
 
 Right now the story is not a separate plugin but is part of the Rehab RPG repo at https://github.com/scyfris/RehabRPG.  The plugin resides in the AGGStoryPlugin folder, under `<root>/AGGStoryPlugin`.
@@ -397,3 +400,129 @@ If you want to override it, then set `Finish Button Name Override` to `%FinishBu
 	* ![[Pasted image 20240417114047.png]]
 * Create inheritted scene in Godot
 * Rebuild shaders
+
+### Save Variables
+
+#### Variables used in scenes
+
+Variables prepended with GLOBAL persist outside of the scene in which they are used.
+Variables not prepended will only persist within the dialogue referencing them.  This way, when a location loads, and the corresponding scene's dialogue is referenced, the variables are self-contained and don't get referenced outside of the scene.
+
+#### Global variables
+
+These variables are referenced globally.  An example of a variable like this is `GLOBAL_ALEX_CLOTHES`.  The `AlexPlayerController` references this variable to determine if Alex should be earing his lab coat or not (i.e. if `GLOBAL_ALEX_CLOTHES` == `LAB_COAT` or not)
+
+#### How to save and load variables in code
+
+We use GameStateManager.SetValue and GameStateManager.GetValue to save and load variables.  
+
+##### Example: From Dialogue
+
+```# Set up Alex
+	if (GameManager.QuestIsFinished("Chapter1/Scene1/GetDressed"))
+		do GameStateManager.SetValue("ALEX_STATE_LABCOAT", true, true)
+	else
+		do GameStateManager.SetValue("ALEX_STATE_LABCOAT", false, true)
+```
+
+
+### AnimatedSpriteMutator
+
+Used to select sprite frames from global variables.  See `AlexPlayerController` for example.
+
+
+### Quests
+
+#### How quests work
+
+The player can be given quests.  In-game actionables can be disabled or enabled depending on if a quest is active - for example, a "Make Coffee" quest would enable the player to click on the coffeepot actionable to open up the coffee minigame.
+
+Quests can also have prerequisites, so even if the player has the quest, if the prerequisite quests aren't met then the Actionable will do nothing (and optionally will play a dialogue indicating to the player they haven't completed something yet).
+
+Quests can be checked in both C# code as well as the Dialogue files.
+
+Below is an overview of all the technical stuff behind quests.
+#### Quests folder
+The quests are defined as resources of type `Quest.cs`.  These reside in the quest folder specified on the global autoload GameManager.  For example, all the quest definitions for scene 1 are under res://Games/PassingTime/Assets/Quests/Chapter1/Scene1/ . 
+
+#### Quest.cs Resource type
+
+This resource defines a quest and prereqs.  The `Quest Name Unique` is a name stored in the database when saved.  `Friendly name` is a string that can be displayed in-game, like when player hovers over the quest or something.  `Prereqs` specify other quests that are required to be complete before this quest can be completed - this is mainly used by the Actionable to provide dialogue to the player if they try to click on a quest and the prereq is not met (such as trying to check emails before getting coffee).
+
+#### Quest Actionable properties
+
+Actionables have a few properties to interact with quests.
+
+##### Actionable Quest Required
+
+Determines whether the player needs to have the quest active or not in order to call this actionable.  This takes a Quest.cs resource as above.
+
+##### Quest Prereq Not Met Dialogue
+
+Optional dialogue to play if the quest's prereqs have not been obtained.
+
+##### Quest Already Finished Dialogue
+
+Optional dialogue to play if the quest is already finished .
+
+##### Quest Not Yet Have Dialogue
+
+Optional dialogue to play if the player doesn't have the question yet.
+
+#### GameManager functions for dealing with Quests
+
+Quests are handled differently from normal save variables.  That is because quests are defined in Resources of type `Quest.cs` and are located in a base folder that is specified to the global GameManager.  The game manager can be interacted with from dialogue files or code files.
+##### GameManager.ChkQuest()
+You can verify a quest file exists by calling `GameManager.ChkQuest`.  This can be done in code or in Dialogue files.  This will force an error if the quest file does not exist.
+
+Example from the Dialogue file:
+
+```
+# Check our quests so we error out very quickly if there is something wrong.
+	do GameManager.ChkQuest("Chapter1/Scene1/GetDressed")
+	do GameManager.ChkQuest("Chapter1/Scene1/CheckEmails")
+	do GameManager.ChkQuest("Chapter1/Scene1/MakeCoffee")
+```
+
+##### GameManager.QuestGive()
+
+You can give a quest to the player.
+
+Example of dialogue file:
+
+```
+# Give the first quest line.  Note that not all quests will be active - that depends on the dependency .
+do GameManager.QuestGive("Chapter1/Scene1/MakeCoffee")
+```
+##### GameManager.QuestHas()
+
+This checks if a player currently has the quest.
+
+##### GameManager.QuestIsFinished()
+
+Returns true if the quest as finished, false otherwise.
+
+```
+# Set up Alex
+	if (GameManager.QuestIsFinished("Chapter1/Scene1/GetDressed"))
+		do GameStateManager.SetValue("GLOBAL_ALEX_STATE_LABCOAT", true, true)
+	else
+		do GameStateManager.SetValue("GLOBAL_ALEX_STATE_LABCOAT", false, true)
+	
+```
+##### GameManager.QuestSetFinished()
+
+Sets the quest as finished.
+
+```
+do GameManager.QuestSetFinished("Chapter1/Scene1/GetDressed")
+```
+
+
+
+
+
+
+
+
+
