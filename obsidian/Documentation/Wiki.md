@@ -278,6 +278,7 @@ LevelManager
 	* This class can be attached to an object to perform some action.  Typically, the object this is attached to will also have some class like "Clickable" whose signal would be hooked up to Actionable::Action().  This class won't do anything without a signal or other code executing Action().  The action that gets executed must also be set to the _action_ member via the Godot inspector.  The action contains the actual action function.
 		* ActionResource
 			* This is an actual action function.  There are different kinds, browse the subclasses of ActionResource.
+		* Actionables can be clicked - their `sort order` affects overlapping, so be careful.
 * TilemapEntrance
 * TileMap references:
 	* Reddit discussion with some useful info on how many tiles needed
