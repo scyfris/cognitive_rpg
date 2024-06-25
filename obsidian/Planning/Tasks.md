@@ -1,5 +1,5 @@
 
-Bug collector and random task tracker:
+Task tracker:
 https://trello.com/b/zADLZojt/rehabrpg
 
 Scheduler
