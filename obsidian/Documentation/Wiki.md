@@ -177,6 +177,7 @@ You must also have
 	* Provides a camera viewport for the scene.
 * Fader.tscn
 	* A fader class for the CutsceneAction fader class.
+	* These can also be accessed from ActionResourceSetFader.
 * TileMapComponents.tscn
 	* Contains Input functionality for the tilemap, including debug drawing for path planning.
 * TileMapEntrance
@@ -261,7 +262,7 @@ Triggers an actor to walk to a target.
 
 ##### CutsceneActionFader
 
-Fades in or out using the scene's "Fader" component.
+Fades in or out using the scene's "Fader" component.  
 
 #### MISC
 
