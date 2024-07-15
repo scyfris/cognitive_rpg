@@ -19,25 +19,23 @@ Just an idea.
 	[title]Main Story[/title]
 	
 	[Quest]
-		[key]scene1[/key]
+		[key]q1[/key]
 		[title]Get ready for the day[/title]
-		
+		[sequential]True[/sequential]
+
 	    [Task]
-	      [key]make_coffee[/key]
+	      [key]makecoffee[/key]
 	      [title]Make coffee[title]
-	      [sequential]True[/sequential] // determines if GetPreq() returns the previous task or nothing.  If True, GetPrereq() returns previous task.  If False, returns NULL and is completely indepedent.
 	    [/Task]
 	    
 	    [Task]
-	      [key]check_emails[/key]
+	      [key]checkemails[/key]
 	      [title]Check emails[title]
-	      [sequential]True[/sequential]
 	    [/Task]
 	    
 	    [Task]
-	      [key]get_dressed[/key]
+	      [key]getdressed[/key]
 	      [title]Get dressed for work[title]
-	      [sequential]True[/sequential]
 	    [/Task]
 	    
 	[/Quest] 
