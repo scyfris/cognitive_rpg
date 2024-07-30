@@ -97,9 +97,9 @@ Characters: Alex, Dillon, Sera.
 
 **Alex:** Your parents - like when you caused their legislation to fail?
 
-**Sera:** That's only part of it. My parents aren't my real parents. My real parents died in the Crimson War when I was really young. I don't even remember them really.
+**Sera:** That's only part of it. My parents aren't my real parents. My real parents died in the Crimson War when I was really young. I don't remember them really.
 
-**Sera:** My current parents, as you already know, were politicians. They adopted me... because it would make a great story on the news. "Senator So-and-So Adopted a War Orphan."
+**Sera:** My current, adoptive parents were politicians. They adopted me... because it would make a great story on the news. "Senator So-and-So Adopted a War Orphan."
 
 **Sera:** I was fifteen.
 
@@ -107,7 +107,23 @@ Characters: Alex, Dillon, Sera.
 
 **Sera:** I tried so hard to get myself adopted. The children I befriended one by one got adopted. Until it was just me. And as I got older, the chances of my adoption grew slimmer.
 
-**Sera:** When my parents adopted me, I had all but given up hope. I thought I was unwanted, unlovable for reasons I don't even know. So when they adopted me, I fought hard for their approval, to show them that their choice wasn't a mistake, that they wouldn't regret taking me in
+**Sera:** When my parents adopted me, I had all but given up hope. I thought I was unwanted, unlovable for reasons I don't even know. So when they adopted me, I fought hard for their approval, to show them that they didn't make a mistake, that they wouldn't regret taking me in.
+
+**Alex:** Did something happen?
+
+**Sera:** My parents were politicians. And by that standard, they were two of the best at what they did. They knew how to twist people's words against them. They knew how to put people down and make themselves look good simultaneously. They knew how to lie, cheat, manipulate, intimidate... while looking good.
+
+**Sera:** For a few years, I didn't think much about it. I was grateful to them and looked up to them. Then one day, I heard them talking about their supporters at dinner. It was... horrible what they were saying.
+
+**Sera:** I couldn't get the conversation out of my head - my rose-tinted lenses had cracked. And from that point on, everything they said and did, every speech they gave, was filtered through those lenses and only served to add to the cracks. Eventually, I had to accept the fact that my parents weren't good people.
+
+**Sera:** And dammit... my heart broke.
+
+**Sera:** Blocking their legislation... was just what the news saw. I had tried so hard to convince my parents to drop it. But they didn't think I could do anything - I mean I had just graduated college - what can a small fry like me do? And then I had no choice but to betray them.
+
+**Sera:** The press hailed me as a hero, but I didn't care about any of that. The look my parents gave me, the look of hatred... I tried to do the right thing, and I lost the people I loved the most.
+
+***Short silence.***
 
 **Alex:** Hey, when the time machine's built and verified to work, I call dibs on the first thing we do with it.
 
@@ -120,3 +136,9 @@ Characters: Alex, Dillon, Sera.
 **Sera:** Well... yes...
 
 **Alex:** Then it's settled.
+
+***Black screen.***
+
+**Alex:** *Sera ended up staying late before returning home. By then, my apartment was empty except for me. Dillon had somehow snuck out without either of us knowing.*
+
+**Alex:** *Over the course of the next month, I worked hard on the proposal. Sometimes Sera would give her input. And before we know it, the proposal was submitted.*
