@@ -184,3 +184,53 @@ Characters: Alex, Seraphina, Mark, Wei
 **Alex:** Finally. The work day is finally over.
 
 **Alex:** I can't wait to get home and relax.
+
+##### Object Comments
+---
+***Left Door.***
+**Alex:** *Should I leave?*
+***Option to leave or stay.***
+
+***Water Cooler.***
+**Alex:** *The hot water option doesn't really work. It just comes out lukewarm.*
+**Alex:** *The cold water option doesn't really work either. It comes out... mildly cooler than lukewarm.*
+**Alex:** *Coffee's where it's at.*
+
+***Coffee Maker.***
+**Alex:** *This is where it's at.*
+
+***Poster Behind Coffee Maker.***
+**Alex:** *Someone thought the office needed a bit more personality.*
+**Alex:** *They were probably new.*
+**Alex:** *If anything, this office has too much personality.*
+
+***Bookshelf.***
+**Alex:** *The books are meant to be shared between all researchers.*
+**Alex:** *The empty space is where books used to be. Until researchers borrowed them and ended up being too lazy to return them.*
+**Alex:** *Great in theory... Not so great in practice. I just keep a store of textbooks at home.*
+
+***Whiteboards.***
+**Alex:** *Lots of ideas on those whiteboards.*
+
+***Right Door.***
+**Alex:** *That's the "supply" closet.*
+**Alex:** *Really, that's just where we put things we don't want to throw away except we also don't know where to put it.*
+
+***Poster next to door.***
+**Alex:** *Calendar of events.*
+
+***Aquarium.***
+**Alex:** *That's Sera's aquarium.*
+**Alex:** *She left it in here, saying that she needed it to deal with the people in here without bursting an artery.*
+**Alex:** *No one complained because, honestly, it's beautiful - the fish, the decor, all of it.*
+
+***Mark's Desk - Nearest the Supply Closet.***
+**Alex:** *That's Mark's desk. There's a reason the aquarium is so close to his desk.*
+**Alex:** *He and Sera hate each other.*
+
+***Wei's Desk - Next to Alex's Desk.***
+**Alex:** *That's Wei's desk. He's an older researcher. Probably about to retire soon.*
+**Alex:** *He seems to enjoy playing the wise, friendly grandfather to the researchers here.*
+
+***Alex's Desk.***
+**Alex:** *That's my desk. Nothing special.*
