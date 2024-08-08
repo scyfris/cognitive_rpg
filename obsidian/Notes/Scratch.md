@@ -1,3 +1,7 @@
+8/5/24
+
+IDEA: Make the work minigames actually earn moneys, just like in real life.  And use those moneys for things like different brands of coffees, different kinds of gifts, maybe alex wants to read some sci-fi novels in game.  This might open up some new dialogue.  Or buying time macine parts. Influencing relationship status, etc.
+
 2/5/24
 
 Something that's been bothering me is the quality of our pixel art, and how to speed things up .  IT will take a lot time to get all animations and such, unless we go really low resolution which might not be that appealing.
