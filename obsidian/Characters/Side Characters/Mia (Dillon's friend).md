@@ -7,7 +7,7 @@ An electrical engineer. Really, really good at her job. Used to be very differen
 Has long haair tied in a pony tail in back.  Has kind of a free-spirit vibe to her, but still grounded.
 Example sprite from another game that we like can be seen here:
 ![[Pasted image 20240808173251.png]]
-
+She has more of a normal / relaxed look - we are imagining beany, hoody, just chill.
 ### Background
 ---
 TODO

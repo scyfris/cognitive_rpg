@@ -3,7 +3,7 @@
 A mechanical engineer. Bit of a chad XD - give off vibes of Cyborg from Teen Titans. He's not black, but it's just the vibes. Likes meat. Enjoys working out. 
 ### Appearance
 ---
-I imagine a pretty lean, buff dude.
+I imagine a pretty lean, buff dude.  I'm imagining his portrait to give off a "happy-go-lucky" / simpleton-type of vibe. naive/innocent and cheerful - a "gym bro". Those are some adjectives to describe him (he actually is smart, but he just looks that part)
 
 ### Background
 ---
